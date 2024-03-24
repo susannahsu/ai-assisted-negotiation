@@ -8,7 +8,7 @@ pip install -r requirements.txt
 which will help you install all the listed packages needed for running scripts in this repo.
 
 
-To run the simulations in batch using the scripts, you will need an OpenAI API key. Start by creating a file named `.env` in the root directory. Then type the following
+To run the simulations in batches using the scripts, you will need an OpenAI API key. Start by creating a file named `.env` in the root directory. Then type the following
 ```
 OPENAI_API_KEY=___
 ```

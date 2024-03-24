@@ -1,2 +1,6 @@
 openai==1.14.2
 python-dotenv==1.0.1
+numpy==1.24.3
+scikit-learn==1.3.0
+gensim==4.3.2
+nltk==3.8.1

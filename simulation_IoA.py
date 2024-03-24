@@ -164,7 +164,7 @@ def run_gpt_process(n_runs=1, model="gpt-4-0125-preview",
         response_content = completion.choices[0].message.content
         save_gpt_response_to_file(response_content, run_number, output_folder, output_prefix)
 
-N = 2
+N = 30
 model = "gpt-4-0125-preview"
 output_folder = "gpt_responses/IoA_response"
 output_prefix = "IoA_response"

@@ -5,4 +5,4 @@ Before you start, please make sure that you have all the dependencies set up pro
 ```
 pip install -r requirements.txt
 ```
-which will help you install all the listed packages.
+which will help you install all the listed packages needed for running scripts in this repo.

@@ -24,7 +24,7 @@ def load_preprocessed_texts(directory):
 #     return intersection / union
 
 def calculate_cosine_similarity(texts):
-    # Adjust TF-IDF vectorization to include n-grams
+    # Adjust TF-IDF vectorization to include n-grams, but seems like unigrams best
     vectorizer = TfidfVectorizer(ngram_range=(1, 1), stop_words=stop_words_list)
     # Joining lemmatized tokens
     tfidf_matrix = vectorizer.fit_transform(texts)  

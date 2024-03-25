@@ -1,0 +1,37 @@
+island of agreement (ioa) table:
+
+- contested facts:
+  [NUMBER]. camp authorities insist that the current data on refugees' nutritional status is sufficient, while fwb wants to conduct its own nutritional assessment.
+  [NUMBER]. camp authorities demand local guards to be hired and compensated with food rations for food distribution, contrary to fwb's policy and principle.
+  [NUMBER]. the effectiveness and necessity of employing local guards for security and distribution tasks are disputed between fwb and the camp authorities.
+
+- agreed facts:
+  [NUMBER]. over [NUMBER],[NUMBER] forcibly displaced refugees are living in critical conditions with severe nutritional deficiencies, inadequate shelter, and limited access to healthcare.
+  [NUMBER]. food assistance is urgently needed for the refugee population to save lives and restore human dignity.
+  [NUMBER]. both parties recognize the importance of a clear distribution plan for the food rations.
+
+- convergent norms:
+  [NUMBER]. the welfare and well-being of the refugee population, especially children and women, is a common concern.
+  [NUMBER]. both parties acknowledge the necessity of urgent food aid distribution to alleviate the humanitarian crisis.
+  [NUMBER]. recognition of the need for security and orderly distribution within the camp to prevent exploitation and ensure aid reaches its intended beneficiaries.
+
+- divergent norms:
+  [NUMBER]. fwb adheres to principles of neutrality, impartiality, and independence, which conflict with the camp authorities' demand for hiring local guards associated with militias.
+  [NUMBER]. different views on compensating guards with food rations due to the risk of diverting aid from its intended beneficiaries.
+  [NUMBER]. the legal and ethical obligations toward the refugees differ significantly, with fwb focusing on humanitarian aid and camp authorities emphasizing control and confinement.
+
+recommendations:
+
+- prioritize:
+  [NUMBER]. exploring third-party mediation to facilitate dialogue and negotiate terms acceptable to both parties.
+  [NUMBER]. developing a transparent and mutually agreed-upon mechanism for aid distribution that allows for oversight without directly involving militia members.
+  [NUMBER]. establishing a joint monitoring and evaluation framework that includes regular assessments of the nutritional and health status of the refugee population.
+  [NUMBER]. seeking support from international bodies or donor countries to influence and persuade the camp authorities to align with international humanitarian norms.
+  [NUMBER]. implementing community-based initiatives that leverage refugee leaders and reputable local civilians to participate in the distribution process.
+
+- avoid:
+  [NUMBER]. compromising on fwb's core principles of neutrality, impartiality, and independence, which could endanger its operations in other regions.
+  [NUMBER]. agreeing to demands that directly conflict with humanitarian and ethical standards, such as compensating militia members with food rations.
+  [NUMBER]. ignoring the input and grievances of the refugee population, which could erode trust and further marginalize the most vulnerable.
+  [NUMBER]. overlooking international legal frameworks and standards that apply to the treatment and care of refugees.
+  [NUMBER]. allowing the negotiation process to stall, risking the exacerbation of the already dire humanitarian crisis.

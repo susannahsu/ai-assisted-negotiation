@@ -1,0 +1,40 @@
+island of agreement table:
+
+- contested facts:
+  [NUMBER]. necessity and scope of conducting a new nutritional assessment by fwb.
+  [NUMBER]. appropriateness and viability of hiring local guards for food distribution duties.
+  [NUMBER]. existence and extent of food diversion by camp guards and their families.
+  [NUMBER]. the reliability of existing data on refugees’ nutritional status provided by camp administration.
+  [NUMBER]. perception of refugees from omega by the government of alpha as potential terrorists.
+  
+- agreed facts:
+  [NUMBER]. over [NUMBER],[NUMBER] forcibly displaced refugees are housed in the primary camp near the national hero roundabout.
+  [NUMBER]. a majority of camp newcomers are children and women with severe nutritional deficiencies.
+  [NUMBER]. continuous influx of refugees into the camps, increasing the demand for food aid.
+  [NUMBER]. both fwb and the camp commander recognize the urgent need for food aid distribution.
+  [NUMBER]. camp’s sanitary and hygiene conditions are dire, with healthcare limited to mobile clinics by health for all.
+  
+- convergent norms:
+  [NUMBER]. the importance of providing emergency food aid to the refugee population swiftly.
+  [NUMBER]. acknowledgment from all parties about the necessity of maintaining security within the camp.
+  [NUMBER]. the necessity to involve some level of local participation in the food distribution process.
+
+- divergent norms:
+  [NUMBER]. fwb's commitment to neutrality, impartiality, and independence vs. camp authorities’ requirement to employ local guards.
+  [NUMBER]. fwb’s policy against in-kind food payments vs. camp authorities and local guards' insistence on receiving food rations as compensation.
+  [NUMBER]. fwb’s aim to conduct thorough vetting of personnel involved in aid distribution vs. the camp authorities’ directive to only hire guards.
+  [NUMBER]. the definition and treatment of omega refugees by the government of alpha.
+
+recommendations:
+
+- prioritize:
+  [NUMBER]. exploring alternative, mutually acceptable ways to ensure security during food distribution, without compromising fwb’s principles of neutrality and independence.
+  [NUMBER]. identifying a mechanism to compensate local participants in the distribution process that aligns with fwb's policies and the local economic context, potentially through third-party oversight or new forms of non-food incentives.
+  [NUMBER]. advancing a compromise on conducting a revised or partial nutritional assessment that satisfies both fwb's due diligence requirements and the camp commander’s call for urgent action.
+  [NUMBER]. enhancing communication and transparency with refugee representatives to build trust and ensure that their needs and concerns are directly addressed in the negotiation process.
+  
+- avoid:
+  [NUMBER]. hiring guards affiliated with armed militias, to maintain fwb's neutrality and not exacerbate tensions or perceptions of taking sides in the conflict.
+  [NUMBER]. making concessions that could lead to food aid diversion, thereby undermining the objective of aiding the most vulnerable and potentially enabling a black market.
+  [NUMBER]. dismissing the concerns of stakeholders, including local church activists and health organizations, whose insights into camp dynamics can inform fwb’s strategy and operations.
+  [NUMBER]. ignoring the broader political and social dynamics, including the stances of the alpha government and the local economy's reliance on the camp, which could impact fwb's ability to operate effectively within the camp.

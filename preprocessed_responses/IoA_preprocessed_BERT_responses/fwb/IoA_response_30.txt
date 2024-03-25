@@ -1,0 +1,42 @@
+island of agreement (ioa) table for fwb and camp authorities negotiation
+
+- contested facts:
+  [NUMBER]. necessity of hiring local guards for food ration distribution.
+  [NUMBER]. the requirement for direct food ration compensation to guards and their families.
+  [NUMBER]. the adequacy of the camp administration’s existing nutritional status data.
+  [NUMBER]. the effectiveness of fwb’s proposed direct cash payments in the local economic context.
+  [NUMBER]. fwb's policy against in-kind food payments and its implications on local guards' compensation.
+
+- agreed facts:
+  [NUMBER]. over [NUMBER],[NUMBER] refugees settled in the primary camp, facing severe nutritional deficiencies.
+  [NUMBER]. continuous influx of refugees, predominantly children and women.
+  [NUMBER]. camp conditions include inadequate shelter, access to clean water, and limited healthcare services.
+  [NUMBER]. the camp is under strict control with instances of extortion and violence from the guards.
+  [NUMBER]. fwb aims to provide emergency food rations to recently arrived refugee families.
+  [NUMBER]. there is an urgent need for food aid in the camp, as identified by various sources.
+
+- convergent norms:
+  [NUMBER]. recognition of the urgent humanitarian need for food assistance in the refugee camp.
+  [NUMBER]. acknowledgment of the critical role of fwb in providing this assistance.
+  [NUMBER]. agreement on the importance of ensuring food aid reaches the intended beneficiaries (refugees).
+  [NUMBER]. shared understanding of the necessity of a secure and orderly distribution process.
+
+- divergent norms:
+  [NUMBER]. fwb’s insistence on neutrality, impartiality, and independence vs. the camp authority's requirement for local guard involvement.
+  [NUMBER]. perspective on who qualifies for food aid compensation (guards vs. refugees).
+  [NUMBER]. views on the optimal mechanism for compensation (food rations vs. cash).
+  [NUMBER]. definitions of security requirements within the camp during the food distribution process.
+
+recommendations for negotiation strategy:
+
+- prioritize:
+  [NUMBER]. establishing a collaboration model that respects fwb's neutrality while acknowledging the camp authority's security concerns.
+  [NUMBER]. securing an agreement to conduct an updated, comprehensive nutritional assessment to ensure aid is directed to those in the most critical need.
+  [NUMBER]. exploring alternative compensation strategies for guards that align with fwb policies, such as involving third parties to provide compensation or seeking exceptions to certain policies under emergency conditions.
+  [NUMBER]. guaranteeing fwb the ability to vet any personnel involved in the distribution process to prevent diversion of aid.
+
+- avoid:
+  [NUMBER]. compromising fwb’s principles of neutrality, impartiality, and independence.
+  [NUMBER]. agreeing to direct food rations compensation to guards without exploring all possible alternatives.
+  [NUMBER]. ignoring the concerns of the refugee population regarding the involvement of local guards.
+  [NUMBER]. disregarding the detailed nutritional needs analysis for effective targeting of food aid.

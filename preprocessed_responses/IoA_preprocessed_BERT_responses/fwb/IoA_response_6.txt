@@ -1,0 +1,41 @@
+based on the provided information about fwb's efforts to negotiate aid distribution within a refugee camp in country alpha, here is an analysis summarized into an island of agreement (ioa) table along with negotiation strategy recommendations:
+
+island of agreement (ioa) table
+
+- contested facts:
+  - the necessity and method of conducting a nutritional assessment (fwb vs. camp commander's perspective).
+  - the appropriate form of compensation for local guards (food rations vs. fwb's policy).
+  - the legitimacy and treatment of refugees within camps by the government of alpha.
+
+- agreed facts:
+  - over [NUMBER],[NUMBER] refugees are in dire need of food assistance.
+  - the local guards and their families also face food insecurity.
+  - the refugees are confined to the camps, relying on aid for their needs.
+
+- convergent norms:
+  - both parties recognize the urgent need for food distribution to alleviate refugee suffering.
+  - the importance of security within the camp during food distribution efforts.
+  - acknowledgment of food insecurity affecting both refugees and local guards' families.
+
+- divergent norms:
+  - fwb's commitment to neutrality, impartiality, and independence vs. camp commander's demand for the involvement of local guards in the distribution process.
+  - camp authorities’ classification of refugees and the policy towards them vs. fwb and international perspective on refugee rights and dignity.
+  - the method of compensating labor involved in distribution (cash or food rations).
+
+recommendations for negotiation strategy
+
+- prioritize:
+  - reaching an agreement on a secure and efficient food distribution process without compromising fwb's principles.
+  - conducting an independent nutritional assessment to ensure aid reaches those in dire need, potentially suggesting a third party to mediate or execute this assessment to address the camp commander's concerns about timeliness.
+  - negotiating an alternative form of compensation for local guards that does not involve direct food ration payments but perhaps provides some form of indirect benefit that does not divert resources from refugees (e.g., setting up a separate fund or supplies specifically earmarked for guards' families).
+  - establishing clear accountability mechanisms and oversight of the distribution process, ensuring that local guards are not able to divert aid.
+  - building rapport and trust with the camp commander by acknowledging their security concerns and suggesting collaborative solutions.
+
+- avoid:
+  - compromising on fwb's core values of neutrality, impartiality, and independence.
+  - engagement in any form of payment or compensation that risks diverting aid from the intended beneficiaries or that could be seen as supporting one party in the local conflict.
+  - ignoring the security concerns and logistical challenges posited by the camp authorities.
+  - underestimating the complexity of the situation and the potential for coercion or exploitation within the camp dynamics.
+  - overlooking the potential for collaboration with other ngos, local leaders, or neutral third parties in mediating some of these contested areas.
+
+by following these recommendations and focusing negotiation efforts on these key areas, fwb can aim to meet its objective of delivering aid to those in need while navigating the complex and sensitive dynamics within the refugee camp.

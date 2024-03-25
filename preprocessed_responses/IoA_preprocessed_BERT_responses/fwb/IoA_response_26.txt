@@ -1,0 +1,37 @@
+based on the provided information, the island of agreement (ioa) table for the negotiation between fwb and the camp authorities can be structured as follows:
+
+contested facts:
+- the need for fwb to hire local guards for food distribution. the camp authorities require this, while fwb has concerns about neutrality, independence, and potential diversion of aid.
+- the sufficiency of existing nutritional status data of refugees. fwb desires to conduct its own assessment, but the camp commander deems it unnecessary.
+- the compensation form for the guards. the camp authorities demand food rations, contrary to fwb's policy of cash payments to avoid food diversion.
+- the reliability and neutrality of personnel. fwb wishes to vet and potentially hire community members, not guards or their relatives, to maintain impartiality.
+
+agreed facts:
+- over [NUMBER],[NUMBER] displaced individuals require food assistance.
+- the camp is receiving a continuous influx of refugees, largely consisting of women and children, facing severe nutritional deficiencies.
+- health for all operates mobile clinics in the camp, suggesting some level of healthcare is available.
+- both parties recognize the urgent need for food assistance.
+
+convergent norms:
+- the importance of providing emergency food aid to the camp's population swiftly.
+- acknowledgment by both parties of the dire conditions in the camp and the necessity of external aid to mitigate the situation.
+- the overall objective to ensure that aid reaches those most in need without further endangering or exploiting the refugee population.
+
+divergent norms:
+- fwb prioritizes neutrality, impartiality, and independence in its operations, refusing to empower or compensate local militia members/guards with food rations potentially leading to aid diversion.
+- the camp authorities (and by extension, local militia) prioritize the use of local guards in distribution and seek compensation in food rations, viewing it as necessary for security and economic survival.
+- different perceptions on the legal and moral obligations towards the refugee population: fwb approaches the situation from a humanitarian angle, while the camp authorities, backed by the local government, view refugees under a security and terrorism lens.
+
+recommendations
+
+prioritize:
+- emphasizing shared goals such as the swift provision of aid and minimizing the suffering of the refugees.
+- negotiating an alternative compensation system for the guards that does not involve food rations, perhaps involving local or international partners to provide other forms of support.
+- proposing a compromise for the vetting and hiring process that ensures neutrality and impartiality, possibly involving a neutral third party to oversee the selection.
+- utilizing the current dire nutritional state of the refugee population as a common ground to expedite assistance.
+
+avoid:
+- dismissing the security concerns of the camp authorities outright, which could escalate tensions.
+- allowing the negotiations to stymie to the point where emergency aid is delayed, jeopardizing the well-being of the refugees.
+- compromising fwb's principles of neutrality, impartiality, and independence, which could undermine its mission and credibility.
+- engaging in actions that could be perceived as empowering or legitimizing local militia members, which could lead to further conflict and exploitation of the refugees.

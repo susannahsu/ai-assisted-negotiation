@@ -1,0 +1,38 @@
+island of agreement (ioa) table
+
+- contested facts:
+  [NUMBER]. accuracy and sufficiency of the camp's existing data on population nutritional status.
+  [NUMBER]. fwb's proposed need to conduct a nutritional assessment.
+  [NUMBER]. necessity and appropriateness of employing local guards for the distribution process.
+  [NUMBER]. compensation for the guards through food rations as opposed to fwb’s policy of cash payment.
+
+- agreed facts:
+  [NUMBER]. over [NUMBER],[NUMBER] refugees are present in the camp facing critical food shortages and nutritional deficiencies.
+  [NUMBER]. the camp oversees continual new arrivals, primarily children and women.
+  [NUMBER]. sanitary conditions within the camp are dire with limited healthcare services.
+  [NUMBER]. both fwb and camp authorities recognize the urgent need for food ration distribution.
+
+- convergent norms:
+  [NUMBER]. the overarching objective of alleviating the humanitarian crisis faced by the refugee population.
+  [NUMBER]. acknowledgment from both parties that education about and distribution of food aid are essential to combat the current situation.
+  [NUMBER]. importance of maintaining security within the camp during the food distribution process.
+
+- divergent norms:
+  [NUMBER]. fwb’s insistence on operational independence and neutrality vs. camp authorities’ demand for the employment of local guards in the distribution process.
+  [NUMBER]. disagreement on the compensation structure for the distribution process participants (cash vs. food rations).
+  [NUMBER]. fwb's policy against employing individuals directly involved in the conflict vs. the camp authority's requirement to employ local guards.
+
+recommendations for negotiation strategy:
+
+- prioritize:
+  [NUMBER]. establishing a shared understanding of the urgent humanitarian needs and the mutual goal of effective food distribution.
+  [NUMBER]. negotiating the possibility of fwb conducting a transparent and swift nutritional assessment with minimal interference, to address the german government’s stipulations and ensure aid reaches those in dire need.
+  [NUMBER]. exploring alternative security arrangements that satisfy camp security concerns without compromising fwb's neutrality, such as international or neutral local observers during distribution.
+  [NUMBER]. creating a detailed, joint distribution plan that specifies roles, responsibilities, and oversight mechanisms to prevent aid diversion.
+  [NUMBER]. discussing non-food compensation alternatives for guards/local workers that do not contravene fwb policies but are acceptable to the camp authorities and practical within the local context.
+
+- avoid:
+  [NUMBER]. compromising fwb’s core principles of neutrality, impartiality, and independence.
+  [NUMBER]. employment of local guards directly involved in the conflict that may exacerbate the mistrust among the refugees towards the distribution process.
+  [NUMBER]. entering into an agreement that allows for the potential diversion of aid, undermining the mission to assist the refugees effectively.
+  [NUMBER]. ignoring the insights and grievances of the refugee leaders and local ngos about the impacts of the militia's control over the camps.

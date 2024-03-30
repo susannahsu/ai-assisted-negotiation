@@ -1,0 +1,39 @@
+given the layered complexities of the standoff between the tribal leaders of iguwafe and health for all (hfa), the following summarization of the negotiation landscape uses the iceberg and common shared space (css) models to outline the key aspects and positions of both parties involved. the crux of the negotiation revolves around the enforced house arrest of hfa staff by local tribesmen, the closure of hfa operations in iguwafe, and the consequent health services vacuum this creates.
+
+ aspect [NUMBER]: detention of hfa staff
+
+counterparty (tribal leaders)
+- positions (what): insist on retaining hfa staff under house arrest until demands are met.
+- reasoning (how): use of detention as leverage to ensure hfa addresses their concerns about healthcare continuity and community needs.
+- motives and values (why): preservation of community health services, maintaining the societal role of local guards, and asserting tribal authority.
+
+user’s organization (hfa)
+- motives and values (why): ensuring the safety and release of detained staff, fulfilling healthcare mission while adapting to new global pressures.
+- reasoning (how): engaging in dialogue with tribal leaders and stakeholders to negotiate the release of staff and transition of healthcare services.
+- positions (what): seek immediate and safe release of staff with an understanding to address broader healthcare service continuity concerns.
+
+ aspect [NUMBER]: closure and transition of hfa operations
+
+counterparty (tribal leaders)
+- positions (what): demand hfa to continue its healthcare operations in iguwafe or secure a seamless transition.
+- reasoning (how): highlight dependency on hfa services for fulfilling critical healthcare gaps, particularly measles outbreak management.
+- motives and values (why): health and wellbeing of the community, avoidance of a healthcare vacuum, and the desire for stability post-hfa's transition.
+
+user’s organization (hfa)
+- motives and values (why): adaptation to global healthcare needs, efficient use of resources, and commitment to healthcare provision where most needed.
+- reasoning (how): balancing global needs with local commitments, seeking to hand over operations responsibly to ensure no service gap.
+- positions (what): commit to adequate transition measures that ensure healthcare continuity, while reallocating resources to areas of acute crisis.
+
+ aspect [NUMBER]: health services continuity post-hfa departure
+
+counterparty (tribal leaders)
+- positions (what): ensure continuous healthcare provision either by hfa or through facilitated transition to capable local or international bodies.
+- reasoning (how): stressing the critical need for healthcare services, particularly in light of current measles outbreaks and general healthcare needs.
+- motives and values (why): commitment to community health, maintenance of public trust in tribal authority, and prevention of social unrest due to healthcare service disruption.
+
+user’s organization (hfa)
+- motives and values (why): responsibility towards patient care, ethical obligation to ensure no gap in healthcare service upon departure, and sustaining hfa's legacy of healthcare provision in crisis situations.
+- reasoning (how): planning a phased withdrawal while engaging stakeholders (local government, other ngos) to take over providing essential health services.
+- positions (what): negotiate with tribal leaders for staff release based on concrete plans for healthcare service continuity, including addressing the measles outbreak and ensuring the compensations and security measures for local guards and their families.
+
+in navigating this negotiation, hfa should employ a strategy that emphasizes shared values such as the importance of healthcare continuity, respect for local concerns, and mutual interest in the wellbeing of iguwafe's residents. clear communication, transparent intentions, and commitment to compromised solutions aligned with the community's best interests will fundamentally shape the negotiation dynamics towards a resolution.

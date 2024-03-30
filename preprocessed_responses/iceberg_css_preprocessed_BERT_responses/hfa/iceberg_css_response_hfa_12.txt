@@ -1,0 +1,41 @@
+ negotiation aspects for international staff detainment by tribesmen in iguwafe
+
+ aspect [NUMBER]: continuation of health for all (hfa) operations
+
+- counterparty (tribal leaders & community)
+  - positions (what): they demand hfa resumes its operations, with an emphasis on addressing the measles outbreak, compensating local guards' families, and enhancing local health authority capacities.
+  - reasoning (how): the tribal leaders and community rely on hfa for essential healthcare services due to inadequate national healthcare infrastructure, exacerbated by ongoing measles outbreaks and post-conflict scars needing medical attention.
+  - motives and values (why): the underlying motive is to ensure continuous and effective healthcare in iguwafe, compensating for perceived injustices and building local capacity for sustainable health management.
+
+- user's organization (health for all - hfa)
+  - motives and values (why): hfa is committed to providing healthcare where it's most needed, but also must manage resources effectively and honor donor directions. safety of staff and adherence to a no-ransom policy are paramount.
+  - reasoning (how): redirecting operations to ukraine is in line with donor preferences and organizational priorities in response to global demands. exiting from beta aligns with strategic redeployment of resources to active conflict zones.
+  - positions (what): hfa aims to negotiate the safe release of their staff, possibly offering a phased or modified continuation of services as a compromise, pending donor approval and security assurances.
+
+ aspect [NUMBER]: compensation for local guards' families
+
+- counterparty (tribal leaders & local guards' families)
+  - positions (what): demands for compensation for the families of local guards who lost their lives or were injured.
+  - reasoning (how): guards' sacrifices enabled hfa's operations; their families now face financial insecurity.
+  - motives and values (why): justice and acknowledgment of sacrifice, ensuring those who contributed to hfa's mission are not forgotten or left destitute.
+
+- user's organization (health for all - hfa)
+  - motives and values (why): responsibility and gratitude towards local partners who enabled their mission; ethical obligation to support those who suffered losses.
+  - reasoning (how): compensation or support to guards' families could foster goodwill, secure staff's release, and possibly allow for a smooth transition or continuance of some operations.
+  - positions (what): willingness to explore compensation mechanisms, contingent on internal policy compliance and potential legal implications.
+
+ aspect [NUMBER]: enhancement of local health authority capacities
+
+- counterparty (tribal leaders & local health authorities)
+  - positions (what): requests hfa assists in building the capacity of local health authorities to manage healthcare needs, including dealing with measles outbreaks.
+  - reasoning (how): recognizing the eventual departure of hfa, there's an urgent need to transition capabilities to local entities to ensure sustainability.
+  - motives and values (why): the ultimate goal is self-sufficiency in healthcare to reduce reliance on external ngos and empower local governance structures.
+
+- user's organization (health for all - hfa)
+  - motives and values (why): sustainable healthcare development aligns with hfa's mission; empowerment of local health systems is a core element of its exit strategy.
+  - reasoning (how): capacity building ensures hfa's legacy, contributes to the region's stability, and may mitigate criticism regarding its departure.
+  - positions (what): open to collaborate on training and resource allocation to enhance local healthcare capabilities, subject to safeguarding staff's release and arranging secure project transition terms.
+
+---
+
+these aspects highlight the negotiation landscape, emphasizing the importance of understanding both parties' positions, reasoning, and underlying motives/values to inform strategy and facilitate a resolution that honors the interests and concerns of all stakeholders involved.

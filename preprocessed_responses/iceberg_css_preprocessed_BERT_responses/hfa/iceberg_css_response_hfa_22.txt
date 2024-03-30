@@ -1,0 +1,41 @@
+ negotiation analysis
+
+ aspect [NUMBER]: continuation of hfa's operations in iguwafe
+
+- counterparty (tribal leaders):
+  - positions: demand hfa to continue its medical services in iguwafe, restart hospital operations, compensate the families of local guards, and assist in controlling the measles outbreak.
+  - reasoning: the abrupt departure of hfa could result in a healthcare vacuum in iguwafe, exacerbating public health crises and potentially causing social unrest given the already tense situation.
+  - motives and values: preservation of community health, restoration of social order, acknowledgment of the sacrifices made by local guards, and ensuring stability through continued international support.
+
+- user’s organization (hfa):
+  - motives and values: commitment to providing medical aid in conflict zones, ethical obligation to assist those in need, maintaining organizational integrity and security of staff, and ensuring sustainable operations with limited resources.
+  - reasoning: the pressing need to redeploy to ukraine due to donor pressure, coupled with the decreasing tensions in beta, informed the decision to leave. an understanding that continuing operations could appease tribal leaders and ensure staff safety, alongside recognition of the critical healthcare role hfa plays in the local community.
+  - positions: open to negotiating the continuation of certain medical services for a transitional period while seeking a solution for long-term healthcare provision through local or governmental bodies.
+
+ aspect [NUMBER]: compensation and support for local guards and their families
+
+- counterparty (local guards and representatives):
+  - positions: demand compensation for the families of guards who died or were injured protecting hfa operations.
+  - reasoning: guards provided essential security services that enabled hfa to operate amidst violence; families of these guards now face financial insecurity following their sacrifice.
+  - motives and values: financial stability for affected families, acknowledgment and compensation for sacrifice and bravery, justice and fairness in treatment.
+
+- user’s organization (hfa):
+  - motives and values: acknowledgment of the sacrifices made by local guards, commitment to ethical principles of fairness and support for those who have aided their mission.
+  - reasoning: understanding that addressing these concerns is crucial for rebuilding trust within the community and ensuring the safety of their own staff.
+  - positions: willingness to explore mechanisms for compensating affected families, potentially through direct support or partnerships with other organizations.
+
+ aspect [NUMBER]: addressing the measles outbreak and continuing healthcare provision
+
+- counterparty (tribal leaders and patient association):
+  - positions: demand immediate action from hfa to address the ongoing measles outbreak and continue necessary healthcare services.
+  - reasoning: the sudden gap in healthcare provision due to hfa's proposed departure exacerbates public health issues, with the measles outbreak posing an immediate threat to community health.
+  - motives and values: protection of public health, particularly of vulnerable populations like children, and sustaining the community's access to essential healthcare services.
+
+- user’s organization (hfa):
+  - motives and values: a duty to prevent and mitigate public health crises, uphold the principles of humanitarian aid, and maintain the well-being of communities they serve.
+  - reasoning: addressing the measles outbreak and ensuring a smooth transition of medical services to local authorities or another ngo could mitigate the crisis and support hfa’s safe exit strategy.
+  - positions: commitment to launching an immediate vaccination campaign against measles and facilitating the training of local healthcare providers for a defined period to ensure continuity of care.
+
+---
+
+this analysis provides hfa with a structured plan to approach negotiation, recognizing that the fulfillment of urgent healthcare needs, fair compensation for locals, and a transition strategy for continued medical services are key to resolving the dispute amicably.

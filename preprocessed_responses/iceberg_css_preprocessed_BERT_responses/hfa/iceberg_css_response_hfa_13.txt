@@ -1,0 +1,41 @@
+ aspect [NUMBER]: immediate release and safety of detained hfa staff
+
+counterparty (tribal leaders)
+
+- positions (what): tribal leaders demand the continuation of hfa operations in iguwafe, compensation for the local guards' families, and measures to reinforce local health authorities' response to the measles outbreak.
+- reasoning (how): these demands aim to ensure the local population continues receiving essential health services, recognize the sacrifices of the local guards who ensured the safety of hfa operations, and address the urgent public health concern of a measles outbreak.
+- motives and values (why): the underlying motives are to protect the well-being of the community, honor local contributions, and have autonomy in addressing their health care needs without complete reliance on external assistance.
+
+user’s organization (hfa)
+
+- motives and values (why): hfa aims to ensure the safety and prompt release of its detained staff, fulfill its healthcare mission, and respond to global health crises responsibly, balancing donor expectations.
+- reasoning (how): negotiating with the tribal leaders underlines the commitment to staff safety while exploring practical solutions to maintain essential services in iguwafe, despite funding and operational challenges.
+- positions (what): hfa seeks a compromise with the tribal leaders to secure the staff's release and discuss possible temporary continuation or a transition plan for healthcare services, contingent on donor support and operational feasibility.
+
+ aspect [NUMBER]: future of healthcare services in iguwafe
+
+counterparty (tribal leaders)
+
+- positions (what): they insist on the need for hfa to commit to continuing healthcare services, including surgical and vaccination programs.
+- reasoning (how): the rationale is based on the crucial role hfa plays in the local healthcare infrastructure and the absence of alternative providers capable of filling the void left by hfa’s departure.
+- motives and values (why): ensuring uninterrupted healthcare services is seen as vital for the community's health and autonomy. there's also a desire to sustain gains made by tribal mediation in peace and community health improvement.
+
+user’s organization (hfa)
+
+- motives and values (why): protection of public health in iguwafe, ethical responsibility toward the community served, and the principle of doing no harm guide hfa's considerations.
+- reasoning (how): hfa evaluates the feasibility of continuing certain operations or transitioning them to local authorities or ngos, considering donor restrictions and operational capacities.
+- positions (what): propose a phased withdrawal or handover plan that ensures neither immediate cessation of essential services nor compromise on staff safety and organization's policies.
+
+ aspect [NUMBER]: compensation for local guards and measles outbreak response
+
+counterparty (tribal leaders)
+
+- positions (what): demand for compensation for families of local guards killed or disabled and implementation of measures to respond to the measles outbreak.
+- reasoning (how): compensation is seen as rightful acknowledgment of the guards' sacrifices, while addressing the measles outbreak is an immediate public health necessity.
+- motives and values (why): valuing the contribution of local protectors to the health missions and prioritizing community health and children's wellbeing are the key motivators.
+
+user’s organization (hfa)
+
+- motives and values (why): acknowledgement of local contributions to hfa's mission success, commitment to the health and wellbeing of the community, especially vulnerable children, guide hfa's response.
+- reasoning (how): hfa considers strategies to provide compensation within organizational policies and international laws, and explore partnerships or funding arrangements to address the measles crisis.
+- positions (what): hfa is open to discussing compensation through appropriate channels and seeking support from donors or partner organizations for urgent public health interventions like the measles vaccination campaign.

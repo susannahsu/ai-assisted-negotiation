@@ -1,0 +1,45 @@
+given the complex situation surrounding the health for all (hfa) organization's involvement in iguwafe and the subsequent detention of its international staff by local tribesmen, a structured analysis using the iceberg and common shared space (css) models is crucial for understanding the driving forces of each party involved. this analysis aims to aid hfa in strategizing negotiations for the safe release of its staff, ensuring their security, and navigating the broader negotiation landscape with the tribal leaders and other stakeholders.
+
+ aspect [NUMBER]: continuation of health services in iguwafe
+
+counterparty: local tribesmen and community
+
+- positions (what): demand the continuation of hfa's health services, compensation for the guards' families, and assistance with the measles outbreak.
+- reasoning (how): tribal leaders view hfa's services as critical to the community's health, especially given the measles outbreak and the absence of alternative healthcare providers.
+- motives and values (why): ensuring community well-being, honoring the sacrifices of the guards, and maintaining stability and health in the community.
+
+user’s organization: health for all (hfa) 
+
+- motives and values (why): commitment to providing healthcare to those affected by conflicts, while also needing to reallocate resources based on donor priorities.
+- reasoning (how): pressure from main donors to shift focus to ukraine, combined with a reduction in conflict-related surgical needs in beta.
+- positions (what): planned to transfer the surgical team from beta to ukraine, aiming to close trauma operations in iguwafe.
+
+ aspect [NUMBER]: safety and immediate release of detained staff
+
+counterparty: local tribesmen and community
+
+- positions (what): conditional release of hfa staff based on the organization's commitments to iguwafe.
+- reasoning (how): using the detained staff as leverage to ensure hfa addresses community healthcare needs and compensates guards' families.
+- motives and values (why): protecting community interests, ensuring accountability and sustained support from hfa.
+
+user’s organization: health for all (hfa)
+
+- motives and values (why): ensuring the safety and well-being of its staff is a paramount concern.
+- reasoning (how): engaging in negotiations with tribal leaders to secure staff release without compromising organizational principles.
+- positions (what): seeks safe, immediate release of detained staff while discussing possible compromises over service continuity.
+
+ aspect [NUMBER]: long-term healthcare capacity in iguwafe
+
+counterparty: local tribesmen and community
+
+- positions (what): require hfa to help enhance local health authorities' capacity and support healthcare infrastructure.
+- reasoning (how): aiming to ensure sustainability and resilience of local healthcare services post-hfa withdrawal.
+- motives and values (why): building a self-reliant healthcare system that continues to serve community needs effectively.
+
+user’s organization: health for all (hfa)
+
+- motives and values (why): fostering healthcare systems that can operate independently of hfa, aligning with its ultimate goal of making communities self-sufficient in healthcare.
+- reasoning (how): considering transferring control of the iguwafe hospital to local health officials with support from other developmental agencies.
+- positions (what): willing to collaborate in transitioning the hospital's management, ensuring iguwafe has the capacity to address its healthcare needs.
+
+this analytical framework aids in mapping out the negotiation landscape, identifying leverage points, and anticipating counterparty expectations. hfa’s negotiation strategy should focus on creating a common shared space (css) that recognizes the community's healthcare needs, the safety of its staff, and the realistic operational constraints dictated by donor priorities. crafting proposals that address these core issues while ensuring the organization can meet its commitment to donors and other operational theaters will be critical in navigating the negotiations successfully.

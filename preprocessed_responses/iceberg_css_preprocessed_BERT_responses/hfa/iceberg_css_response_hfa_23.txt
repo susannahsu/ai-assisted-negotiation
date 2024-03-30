@@ -1,0 +1,45 @@
+given the complex situation involving health for all (hfa) and the local tribesmen in iguwafe, the negotiation landscape can be framed using the iceberg and common shared space (css) models. below is a structured analysis based on the provided context:
+
+ aspect [NUMBER]: detention of international staff
+
+ counterparty (tribesmen & tribal leaders)
+
+- positions (what): they have detained hfa international staff to prevent them from leaving.
+- reasoning (how): the detention serves as leverage to ensure hfa addresses local healthcare needs and compensates the guards' families.
+- motives and values (why): the underlying motive is to ensure continued healthcare services in iguwafe and honor the sacrifices made by local guards.
+
+ user’s organization (health for all - hfa)
+
+- motives and values (why): ensuring the safety and release of detained staff while adhering to organizational policies against ransom and maintaining healthcare support in the region.
+- reasoning (how): negotiating safe staff release implies engaging in dialogue with the tribesmen and discussing possible compromises on healthcare provision and compensations.
+- positions (what): hfa aims to secure the safe release of its staff and negotiate terms for continuing some form of healthcare service in iguwafe.
+
+ aspect [NUMBER]: healthcare service provision
+
+ counterparty (tribesmen & tribal leaders)
+
+- positions (what): demanding hfa to continue operations in iguwafe.
+- reasoning (how): recognizing the critical role of hfa in providing unique and necessary healthcare services to the community.
+- motives and values (why): value on community health and welfare, especially in light of current measles outbreak and lack of local healthcare infrastructure.
+
+ user’s organization (health for all - hfa)
+
+- motives and values (why): commitment to providing healthcare to underserved populations, even with the strategic pivot towards ukraine due to donor pressure.
+- reasoning (how): balancing donor demands with ethical obligations to the community in iguwafe, seeking flexible solutions to maintain some level of service.
+- positions (what): proposing a gradual transition of healthcare services to local authorities or other ngos while ensuring critical care areas like measles outbreaks are addressed.
+
+ aspect [NUMBER]: compensation for local guards' families
+
+ counterparty (tribesmen & tribal leaders)
+
+- positions (what): demand for compensations for the guards' families who suffered losses.
+- reasoning (how): the guards played a pivotal role in protecting hfa operations and staff; their sacrifices should be acknowledged materially.
+- motives and values (why): upholding a principle of justice and support for families who contributed to the community's safety and well-being.
+
+ user’s organization (health for all - hfa)
+
+- motives and values (why): responsibility toward those who contributed to and were affected by hfa’s mission, while navigating financial and ethical constraints.
+- reasoning (how): evaluating avenues for compensation that align with organizational policies and the practical capability to provide such support.
+- positions (what): willingness to discuss and find feasible ways to compensate the families while ensuring it doesn't set an unsustainable precedent.
+
+by framing the negotiation landscape as above, hfa can enter discussions with a clear understanding of both their position and that of the counterparty. addressing these aspects requires honest communication, the establishment of mutual values, and the exploration of potential compromises that can satisfy both parties' core motives and values.

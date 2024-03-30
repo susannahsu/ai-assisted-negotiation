@@ -1,0 +1,43 @@
+ aspect [NUMBER]: continuation of hfa operations in iguwafe
+
+ counterparty (tribal leaders)
+
+- positions (what): tribal leaders demand that health for all (hfa) continues its operations in iguwafe and provides compensation for the families of local guards.
+- reasoning (how): they believe hfa's departure worsens the healthcare situation, affecting measles outbreaks and surgical care. compensation is sought due to the guards' sacrifices in ensuring hfa's operational security.
+- motives and values (why): tribal leaders value the welfare and healthcare of their community highly and see the compensation as justice for the guards' families.
+
+ user’s organization (hfa)
+
+- motives and values (why): hfa aims to ensure the well-being and safety of its staff while fulfilling its mission to provide healthcare in conflict zones.
+- reasoning (how): transitioning operations to regions like ukraine is a strategic move driven by funding constraints and the need to address emerging global crises.
+- positions (what): hfa seeks a compromise that ensures the safety of its staff and possibly scales down operations, rather than a full cessation, in iguwafe.
+
+ aspect [NUMBER]: compensation for the families of local guards
+
+ counterparty (tribal leaders and local guards)
+
+- positions (what): demand compensation for the families of local guards who died or were injured while safeguarding hfa's operations.
+- reasoning (how): they argue that the guards' protection was crucial for hfa's ability to operate safely.
+- motives and values (why): the protection of community members and justice for their sacrifices are deeply valued.
+
+ user’s organization (hfa)
+
+- motives and values (why): commitment to ethical practices and recognition of local contributions to hfa's mission.
+- reasoning (how): acknowledging the sacrifices made by local guards underlines hfa's respect and responsibility towards every stakeholder in the areas they operate.
+- positions (what): willing to explore compensation measures, although constrained by organizational policies and donor directives.
+
+ aspect [NUMBER]: addressing the measles outbreak
+
+ counterparty (tribal leaders and local community)
+
+- positions (what): demand hfa to take immediate actions to manage the measles outbreak.
+- reasoning (how): the outbreak presents an immediate health risk, exacerbated by hfa's potential closure.
+- motives and values (why): protecting public health, especially of children, and avoiding further crises in the community is paramount.
+
+ user’s organization (hfa)
+
+- motives and values (why): hfa is driven by the imperative to save lives and improve health outcomes, especially in crisis situations.
+- reasoning (how): managing the measles outbreak aligns with hfa's larger goals of providing essential healthcare in underserved areas.
+- positions (what): open to collaborating with partners to address the outbreak, even as it plans the transition of services in iguwafe.
+
+in summary, the negotiation focuses on aligning hfa's mission with the immediate healthcare needs and justice concerns of the iguwafe community. hfa's positions are guided by its core values and operational constraints, aiming for resolutions that respect the dignity and welfare of all parties involved.

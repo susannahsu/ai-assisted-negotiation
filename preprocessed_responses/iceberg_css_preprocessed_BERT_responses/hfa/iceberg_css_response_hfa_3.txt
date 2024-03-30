@@ -1,0 +1,39 @@
+given the complex situation involving the health for all (hfa) organization's staff detained by tribesmen in iguwafe and the broader context of hfa's planned withdrawal from the area, below is a negotiation analysis using the iceberg and common shared space (css) models to structure discussions with the tribal leaders for resolving the crisis.
+
+ aspect [NUMBER]: continuation of healthcare services
+
+counterparty (tribal leaders) position:
+- positions (what): demand for the immediate resumption of healthcare services at the local hospital and an assurance of hfa's continued presence in iguwafe.
+- reasoning (how): the sudden withdrawal of hfa has left a vacuum in healthcare services, exacerbating local healthcare crises such as measles outbreaks.
+- motives and values (why): preservation of community health and welfare, upholding the communal responsibility to provide care, especially in light of past sacrifices made by local guards.
+
+user’s organization (hfa) position:
+- motives and values (why): command a strong commitment to health care provision in crisis zones, and a principle of non-abandonment of communities in need.
+- reasoning (how): acknowledging the impact of their withdrawal on the community’s access to healthcare, and understanding the need to build a sustainable transition to local or government-handled healthcare services.
+- positions (what): willingness to negotiate terms for gradual withdrawal that ensures the least disruption to local healthcare services, possibly through training local staff or securing a partner organization to take over operations.
+
+ aspect [NUMBER]: safety and release of detained staff
+
+counterparty (tribal leaders) position:
+- positions (what): detention of international staff as leverage to negotiate hfa’s continued presence and healthcare services delivery.
+- reasoning (how): using the detention as a means to attract attention to their demands and bring hfa to the negotiating table.
+- motives and values (why): leverage for negotiations; ensuring the welfare and safety of their community by maintaining healthcare services.
+
+user’s organization (hfa) position:
+- motives and values (why): ensuring the safety, security, and well-being of their staff; fulfilling healthcare commitments without fostering a precedent for future coercion.
+- reasoning (how): prioritizing staff safety through dialogues and negotiations without succumbing to extortion tactics to maintain the principle of impartiality and non-ransom policy.
+- positions (what): seeking immediate release of the staff through negotiation while discussing sustainable, long-term solutions for the community’s healthcare needs.
+
+ aspect [NUMBER]: compensation for local guards
+
+counterparty (tribal leaders) position:
+- positions (what): demand for compensation for the hospital’s guards and their families who faced risks and losses due to their association with hfa.
+- reasoning (how): these demands are based on the perceived obligation of hfa to recognize and remunerate the sacrifices made by the local guards for the safety of hfa operations.
+- motives and values (why): justice and recognition for the community members’ sacrifices; ensuring families of deceased or disabled guards are cared for.
+
+user’s organization (hfa) position:
+- motives and values (why): recognition of the contributions and sacrifices of local guards to hfa’s operations; commitment to ethical conduct and community support.
+- reasoning (how): understanding the importance of local guards in their operations, and the need to ethically address the consequences of their withdrawal on these individuals and their families.
+- positions (what): openness to discuss and find feasible ways to compensate or assist the families of the local guards, within the constraints of hfa’s policies and capabilities.
+
+in negotiating with the tribal leaders, hfa should leverage the css model to find a shared space of interests—healthcare continuity, staff safety, and guard compensation—and work towards solutions that respect both parties’ motives and values, facilitating a sustainable transition and ensuring the well-being of the iguwafe community and hfa staff.

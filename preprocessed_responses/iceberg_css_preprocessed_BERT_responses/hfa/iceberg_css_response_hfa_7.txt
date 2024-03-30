@@ -1,0 +1,49 @@
+ negotiation analysis for health for all (hfa) with iguwafe tribal leaders
+
+ aspect [NUMBER]: continuation of hfa operations in iguwafe
+
+counterparty: iguwafe tribal leaders
+
+- positions (what): expect hfa to maintain its healthcare operations in iguwafe.
+- reasoning (how): emphasize the critical healthcare vacuum that hfa's departure would create, affecting the community's wellbeing.
+- motives and values (why): driven by a duty to safeguard the community's health and the socio-economic stability that hfa's presence brings.
+
+user’s organization: health for all (hfa)
+
+- motives and values (why): committed to providing medical aid in conflict zones, yet must balance resource allocation to areas with emergent needs (e.g., ukraine).
+- reasoning (how): the decision to move resources to ukraine is influenced by donor preferences and the strategic prioritization of global crises.
+- positions (what): seeking to negotiate the safe release of staff while discussing potential compromises on continuing limited medical operations in iguwafe.
+
+ aspect [NUMBER]: compensation for the families of deceased local guards
+
+counterparty: iguwafe tribal leaders
+
+- positions (what): demand compensation for families of local guards who died or were injured.
+- reasoning (how): view compensation as an acknowledgment of the guards' sacrifices and a means of support for their families.
+- motives and values (why): focused on justice and reciprocation for the community members' bravery and losses.
+
+user’s organization: health for all (hfa)
+
+- motives and values (why): recognizes the sacrifices of local guards and is open to discussing fair acknowledgements.
+- reasoning (how): understands the importance of maintaining community relations and ethical responsibilities towards those who have supported hfa's mission.
+- positions (what): willing to explore mechanisms of support for the guards' families but emphasizes the need for the safe release of hfa staff as a prerequisite to further discussions.
+
+ aspect [NUMBER]: addressing the measles outbreak
+
+counterparty: iguwafe tribal leaders
+
+- positions (what): hfa should take immediate action to address the measles outbreak.
+- reasoning (how): view hfa as a primary healthcare provider with the capabilities to manage health crises like measles.
+- motives and values (why): protecting public health and preventing further disease outbreaks are central to the community's resilience and safety.
+
+user’s organization: health for all (hfa)
+
+- motives and values (why): dedicated to mitigating health crises and preventing disease outbreaks, aligning with hfa’s humanitarian objectives.
+- reasoning (how): acknowledges the importance of responding to immediate health threats to save lives and maintain public health.
+- positions (what): proposes to assist in measles outbreak management by providing vaccines or support, contingent on securing a safe environment for healthcare delivery and staff safety.
+
+---
+
+ conclusion
+
+hfa’s negotiation strategy with the iguwafe tribal leaders should focus on finding a balanced resolution that considers the urgent healthcare needs of the community, acknowledges the contributions and losses of the local guards, and addresses public health threats like measles, within the constraints of hfa’s resources and overarching mission priorities.

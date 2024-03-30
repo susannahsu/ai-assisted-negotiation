@@ -1,0 +1,42 @@
+given the complex situation involving the international health organization health for all (hfa) and the local tribesmen in iguwafe, country beta, the negotiation landscape can be framed using the iceberg and common shared space (css) models. the provided context highlights critical aspects of this high-stakes negotiation, focusing on the detention of hfa's staff, the healthcare needs of the local population, and the demands of the tribal leaders. here's an analysis based on the available information:
+
+ aspect [NUMBER]: detention of hfa staff by local tribesmen
+
+counterparty (tribal leaders and tribesmen):
+- positions (what): immediate cessation of staff departure and continuation of healthcare services.
+- reasoning (how): the abrupt decision to transfer resources to ukraine overlooks local healthcare needs and undermines tribal efforts in maintaining peace and stability.
+- motives and values (why): ensuring community well-being, sustaining healthcare services post-hfa’s departure, and asserting authority and autonomy in decision-making affecting their community.
+
+user’s organization (health for all):
+- motives and values (why): commitment to global healthcare support, ethical obligation to staff safety, and adherence to directives from main donors.
+- reasoning (how): prioritizing urgent healthcare needs in global hotspots like ukraine while navigating financial limitations and donor expectations.
+- positions (what): secure a safe and dignified release of detained staff, with a gradual transition of healthcare services to local authorities or other ngos.
+
+ aspect [NUMBER]: healthcare needs of the local population 
+
+counterparty (local population and healthcare providers):
+- positions (what): maintenance of essential healthcare services and addressing immediate health crises (e.g., measles outbreak).
+- reasoning (how): reliance on hfa's services due to inadequate local healthcare infrastructure and the critical role of hfa in addressing emergent and existing health challenges.
+- motives and values (why): health as a fundamental human right, the importance of continuous access to healthcare, and prevention of further health crises.
+
+user’s organization (health for all):
+- motives and values (why): providing high-quality healthcare, particularly in conflict-affected regions, and ensuring no interruption in urgent care services.
+- reasoning (how): exploring collaborations with other ngos, transferring skills and resources to local health providers, and seeking sustainable healthcare solutions for the region.
+- positions (what): propose a phased withdrawal plan ensuring continuous healthcare coverage, support in addressing the measles outbreak, and training for local healthcare providers.
+
+ aspect [NUMBER]: demands of the local tribesmen and tribal leaders
+
+counterparty (tribal leaders):
+- positions (what): compensation for hospital guards, commitment to maintain healthcare services, and support in strengthening local healthcare capacities.
+- reasoning (how): the guards' sacrifices during the conflict, the critical role of hfa in the healthcare framework, and the need for empowerment of local health authorities.
+- motives and values (why): recognition of local heroes, accountability from international actors, and building a resilient and autonomous local healthcare system.
+
+user’s organization (health for all):
+- motives and values (why): respect and acknowledgment of local contributions to healthcare delivery, commitment to leaving a sustainable healthcare legacy, and ethical responsibility towards partners and beneficiaries.
+- reasoning (how): establishing a compensation fund for the guards, devising a support plan for local healthcare capacity building, and ensuring a responsible exit strategy.
+- positions (what): negotiate a comprehensive support package that includes compensation, technical assistance for local health authorities, and a clear, responsible transition timeline.
+
+next steps for the hfa delegation:
+- formulate a clear, comprehensive response reflecting hfa’s positions on the key aspects identified.
+- prepare to negotiate with a focus on mutual interests, employing the css model to find common ground.
+- ensure communication strategies are in place to engage all stakeholders transparently and effectively.

@@ -1,0 +1,52 @@
+ negotiation summary: health for all (hfa) and iguwafe tribal leaders
+
+---
+
+ aspect [NUMBER]: continued operations and staff detainment
+
+ counterparty: iguwafe tribal leaders
+- positions (what): insist on the continued operation of hfa in the local hospital and the release of detained staff contingent on hfa's commitment.
+- reasoning (how): belief in hfa's critical role in healthcare delivery and the impact of their sudden departure on the community's well-being.
+- motives and values (why): health and stability of the community, respect for sacrifices made by local guards, and equitable access to essential services.
+
+ user’s organization: health for all (hfa)
+- motives and values (why): commitment to providing urgent medical aid, ensuring staff safety, and balancing global operational demands.
+- reasoning (how): transition required due to funding redirection and operational constraints; however, prioritizes staff release and explores possibilities for limited ongoing support.
+- positions (what): willing to discuss measured continuation of services, seek resolution for staff safety, but maintains that long-term operational sustainment is not feasible without additional support.
+
+---
+
+ aspect [NUMBER]: compensation for local guards’ families
+
+ counterparty: iguwafe tribal leaders
+- positions (what): demand compensation for the families of guards who suffered during hfa’s operations.
+- reasoning (how): recognize the risks and sacrifices made by these individuals for maintaining the safety of medical teams and facilities.
+- motives and values (why): justice, acknowledgment of local contributions, and support for the affected families within their community.
+
+ user’s organization: health for all (hfa)
+- motives and values (why): ethical responsibility towards local partners and communities influenced by their activities.
+- reasoning (how): acknowledging the shared sacrifices for a common cause; evaluating the capacity for compensation within organizational policies.
+- positions (what): commitment to exploring possible compensations or support packages, albeit dependent on fundraising capabilities and policy constraints.
+
+---
+
+ aspect [NUMBER]: addressing the measles outbreak
+
+ counterparty: iguwafe tribal leaders
+- positions (what): demand immediate action from hfa to assist in controlling the measles outbreak.
+- reasoning (how): the outbreak presents an imminent threat to public health, with hfa perceived as having the capabilities to initiate urgent medical interventions.
+- motives and values (why): protection of community health and prevention of further outbreaks, leveraging existing healthcare infrastructures.
+
+ user’s organization: health for all (hfa)
+- motives and values (why): public health and safety, prevention of disease spread within vulnerable populations.
+- reasoning (how): utilizing expertise in delivering emergent medical interventions, even as long-term operations wind down.
+- positions (what): open to providing temporary support for measles outbreak, subject to resource availability and support from global health partners.
+
+---
+
+next steps:
+
+the hfa delegation plans to utilize the summarized points of negotiation to organize their strategy. this involves:
+- preparing detailed proposals addressing each aspect with clear, achievable commitments.
+- exploring partnership or transition strategies that ensure the continuity of essential services post-hfa exit.
+- engage in diplomatic dialogue that balances organizational constraints with community needs, aiming for mutual agreement.

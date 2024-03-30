@@ -8,7 +8,7 @@ from nltk.corpus import stopwords
 nltk.download('stopwords')
 stop_words_list = list(set(stopwords.words('english')))
 
-preprocessed_dir = '../preprocessed_responses/IoA_preprocessed_responses/fwb'
+preprocessed_dir = '../preprocessed_responses/iceberg_css_preprocessed_responses/fwb'
 
 def load_preprocessed_texts(directory):
     texts = []
@@ -53,5 +53,6 @@ cosine_sim_matrix = calculate_cosine_similarity(preprocessed_texts)
 #         jaccard_sim_matrix[j, i] = sim  # The matrix is symmetric
 
 # Saving the similarity matrices
-np.save('cosine_sim_matrix.npy', cosine_sim_matrix)
+name = 'cosine_sim_matrix_iceberg_css_fwb.npy'
+np.save(name, cosine_sim_matrix)
 # np.save('jaccard_sim_matrix.npy', jaccard_sim_matrix)

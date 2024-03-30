@@ -1,4 +1,4 @@
-from jac_cos_similarity import jaccard_similarity, cosine_similarity
+from nlp_analysis_scripts.cos_similarity import jaccard_similarity, cosine_similarity
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 

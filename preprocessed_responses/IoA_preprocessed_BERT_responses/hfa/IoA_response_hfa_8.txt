@@ -1,0 +1,40 @@
+based on the provided information, here is how the island of agreement (ioa) table can be populated and the recommended negotiation strategies:
+
+island of agreement table:
+
+- contested facts:
+    [NUMBER]. the necessity and conditions for hfa's continued operation in iguwafe.
+    [NUMBER]. the extent of hfa’s responsibilities towards local hospital guards and their families.
+    [NUMBER]. the feasibility of hfa’s immediate transition of hospital control to local health authorities amidst current outbreaks, like measles.
+    [NUMBER]. the characterization of hfa staff detention — labor dispute or hostage crisis.
+
+- agreed facts:
+    [NUMBER]. hfa provided invaluable surgical and medical services in the wake of community violence.
+    [NUMBER]. the local health infrastructure is inadequate to meet the community's needs without external support.
+    [NUMBER]. the local population, especially children, critically needs ongoing surgical and medical support.
+    [NUMBER]. the immediate release and safety of hfa staff is a priority for hfa.
+
+- convergent norms:
+    [NUMBER]. acknowledgment of the indispensable role of humanitarian organizations in addressing health crises in conflict and post-conflict situations.
+    [NUMBER]. the principle of ensuring the safety and security of humanitarian workers.
+    [NUMBER]. the immediate need to address health outbreaks (e.g., measles) which poses a significant risk to the local population.
+    [NUMBER]. recognition of the sacrifices and dangers faced by local guards during hfa operations.
+
+- divergent norms:
+    [NUMBER]. hfa’s priority to reallocate resources to other global crises (e.g., ukraine) vs. the local community's demand for continued healthcare support.
+    [NUMBER]. views on the appropriate compensation and acknowledgment for the local guards and their families.
+    [NUMBER]. differing perspectives on the legal and ethical implications of hfa staff detention.
+
+recommendations:
+
+- prioritize:
+    [NUMBER]. securing the immediate release of detained hfa staff through diplomatic engagement and community dialogue, without escalating tensions or validating the detention through financial negotiation.
+    [NUMBER]. establishing a transition plan for healthcare services that includes a temporary reduction rather than complete cessation of services, leveraging support from other ngos, national government efforts, and potential donor flexibility.
+    [NUMBER]. engaging with local authorities, tribal leaders, and other stakeholders to outline a sustainable healthcare model for iguwafe, which may include training and empowering local health professionals.
+    [NUMBER]. addressing the measles outbreak as an immediate health crisis requiring collaborative intervention, potentially as a gesture of goodwill and to underscore the necessity of hfa’s presence.
+
+- avoid:
+    [NUMBER]. any concession that may be perceived as a ransom or that compromises the principles of neutrality and independence of humanitarian work.
+    [NUMBER]. public confrontation or media engagement that could further inflame local sentiments or endanger the detained staff.
+    [NUMBER]. underestimating the influence of tribal leaders and local customs in the resolution of the crisis.
+    [NUMBER]. delaying negotiation or responses to urgent health needs, such as the measles outbreak, which could deteriorate local trust and escalate demands.

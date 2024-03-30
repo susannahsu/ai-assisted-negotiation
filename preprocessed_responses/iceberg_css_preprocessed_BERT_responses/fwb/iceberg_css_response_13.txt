@@ -1,0 +1,44 @@
+ negotiation aspects: camp authorities vs. fwb
+
+ [NUMBER]. requirement for local guards in food distribution
+
+ counterparty: camp authorities
+
+- positions: insist on the inclusion of local guards in the food distribution process.
+- reasoning: they believe this will ensure security and order during distribution, and argue that guards perform roles beyond security that should be compensated.
+- motives and values: ensure control over the distribution process and support the local militia and their families, who rely on these opportunities for sustenance.
+
+ user’s organization: fwb
+- motives and values: commitment to neutrality, impartiality, and independence in providing humanitarian aid.
+- reasoning: hiring local guards, especially those affiliated with militias, could compromise fwb's principles and the integrity of the aid distribution process.
+- positions: fwb cannot hire guards or their relatives due to concerns over neutrality and potential aid diversion.
+
+ [NUMBER]. compensation in form of food rations
+
+ counterparty: camp authorities
+
+- positions: demand food rations as compensation for guards' services during food distribution.
+- reasoning: cash payments are deemed less useful in a region where food prices are exorbitant. food rations are seen as a more viable form of compensation.
+- motives and values: support for the economic wellbeing of guards’ families and adherence to a locally accepted compensation method in a market constrained by limited goods availability.
+
+ user’s organization: fwb
+
+- motives and values: adhere to organizational policies and donor agreements that stipulate aid must directly reach the intended beneficiaries.
+- reasoning: providing food rations as compensation could lead to diversion of aid, undermining the effectiveness of the humanitarian response and violating the principles of aid distribution.
+- positions: opposes compensating guards with food rations to prevent potential diversion and resale of aid.
+
+ [NUMBER]. conducting a nutritional assessment
+
+ counterparty: camp authorities
+
+- positions: deem existing data on the population's nutritional status sufficient and demand immediate start of food distribution without a new assessment.
+- reasoning: they wish to expedite aid distribution to alleviate immediate needs and possibly to maintain control over the distribution.
+- motives and values: balancing the urgent need for food assistance in the camp and asserting authority and control over the humanitarian processes within their jurisdiction.
+
+ user’s organization: fwb
+
+- motives and values: responsibility to ensure that the provided aid meets the actual needs of the population based on accurate and current data.
+- reasoning: a comprehensive nutritional assessment is required to tailor the aid distribution to the needs of the refugees, ensuring effective and equitable assistance.
+- positions: insists on conducting its own nutritional assessment to inform the food distribution strategy according to the needs of the population and the requirements of its donors, such as the german government.
+
+this structured approach outlines the areas of contention between the camp authorities and fwb, with specific focus on the principles and values driving both organizations. the aim is to establish a grounded understanding that could serve as a basis for resolving these critical negotiation aspects, ensuring aid delivery to the refugee population in an efficient, impartial, and transparent manner.

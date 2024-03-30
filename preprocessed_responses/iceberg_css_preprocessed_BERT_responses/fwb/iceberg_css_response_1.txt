@@ -1,0 +1,39 @@
+given the comprehensive background and details, we will address the negotiation between food without borders (fwb) and the camp authorities in country alpha, focusing on three key aspects: hiring local guards for food distribution, compensation for these guards, and conducting a nutritional assessment.
+
+ aspect [NUMBER]: hiring local guards for food distribution
+
+counterparty (camp authorities):
+- positions (what): insist that fwb hires local guards for the food distribution process.
+- reasoning (how): assert the guards are essential for the security and order during the food distribution.
+- motives and values (why): security management and maintaining control over the camp activities, including keeping a grip on resources.
+
+user’s organization (fwb):
+- motives and values (why): maintain neutrality, impartiality, and independence in providing humanitarian aid.
+- reasoning (how): hiring militia-affiliated guards compromises fwb’s principles and risks aid diversion.
+- positions (what): fwb cannot employ local guards as it would violate its principles and potentially harm its mission of impartial aid delivery.
+
+ aspect [NUMBER]: compensation for guards
+
+counterparty (camp authorities):
+- positions (what): demand food rations as compensation for the guards’ services.
+- reasoning (how): argue that many guards' families also face food insecurity; food rations are more valuable than cash in the current economic condition.
+- motives and values (why): addressing the local economic challenges and ensuring the guards’ loyalty to the camp authorities by securing their families' needs.
+
+user’s organization (fwb):
+- motives and values (why): ensure that all aid reaches its intended beneficiaries without diversion.
+- reasoning (how): paying in food rations increases the risk of aid diversion, which violates fwb’s policies and donor agreements.
+- positions (what): strongly opposes compensating guards with food rations to prevent exploitation of the aid system and keep the aid focused on the refugees.
+
+ aspect [NUMBER]: conducting a nutritional assessment
+
+counterparty (camp authorities):
+- positions (what): reject the need for a new nutritional assessment and demand immediate food distribution.
+- reasoning (how): believe existing data is sufficient; prioritizing rapid aid delivery to alleviate pressure on resources.
+- motives and values (why): quick mitigation of camp stresses and averting potential crises by assuring the camp's population is fed.
+
+user’s organization (fwb):
+- motives and values (why): adherence to both operational guidelines and donor requirements, ensuring aid reaches those in dire need.
+- reasoning (how): a thorough nutritional assessment aligns with fwb’s commitment to targeted and effective aid delivery, ensuring resources aren’t wasted or misallocated.
+- positions (what): firm on conducting a nutritional assessment to inform the food distribution process, despite resistance from camp authorities.
+
+by navigating these detailed negotiation aspects using the iceberg and css models, fwb aims to find a balanced approach to fulfill its mission while addressing the camp authorities' demands and concerns. the ultimate goal is to secure an efficient and principled distribution of food aid that aligns with fwb’s humanitarian values and operational integrity.

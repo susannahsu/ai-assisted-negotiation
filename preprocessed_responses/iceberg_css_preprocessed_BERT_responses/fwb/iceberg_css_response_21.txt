@@ -1,0 +1,45 @@
+based on the complex situation described, the negotiation landscape involves multiple parties with differing interests, but for clarity, we will focus on the primary negotiation between fwb (food without borders) and the camp authorities (including militia leaders and local guards).
+
+ aspect [NUMBER]: hiring local guards for food distribution
+
+ counterparty: camp authorities
+
+- positions (what): insist that fwb hires local guards to assist in the food ration distribution process.
+- reasoning (how): they argue that guards' duties extend beyond security roles, contributing to the distribution effort and thus should be compensated similarly to other day laborers.
+- motives and values (why): the primary motive is to ensure that the families of the guards, who are also facing food insecurity, receive compensation in a form that is directly beneficial due to the limited utility of cash in the region. additionally, this maintains the camp authorities' control over resources and personnel within the camp.
+
+ user’s organization: fwb
+
+- motives and values (why): fwb is committed to providing impartial and neutral assistance, focusing solely on the needs of the refugees without contributing to the conflict.
+- reasoning (how): hiring guards as part of the distribution process risks breaching fwb’s neutrality and could potentially contribute to diversion of assistance away from the needy refugees.
+- positions (what): fwb cannot accept the camp authorities' demand to hire local guards for food distribution due to concerns about neutrality, potential aid diversion, and the violation of its principles.
+
+ aspect [NUMBER]: compensation in food rations
+
+ counterparty: camp authorities
+
+- positions (what): demand that the local guards should receive compensation in the form of food rations for their services.
+- reasoning (how): local market conditions make food rations a more valuable and practical form of compensation than cash.
+- motives and values (why): align with the pragmatic approach to address local economic realities and ensure the guard families’ survival in a predominantly barter-based economy.
+
+ user’s organization: fwb
+
+- motives and values (why): maintaining integrity and fairness in the distribution of aid to prevent diversion and ensure aid reaches its intended recipients.
+- reasoning (how): providing compensation in food rations risks creating incentives for diversion of resources and could weaken the impact of assistance programs.
+- positions (what): fwb opposes compensation in food rations for guards, adhering to policies that aim to prevent the diversion of aid.
+
+ aspect [NUMBER]: independence in operation
+
+ counterparty: camp authorities
+
+- positions (what): require fwb representatives to always be accompanied by guards within the camp.
+- reasoning (how): cite security concerns as the primary reason for needing guards to accompany fwb staff.
+- motives and values (why): maintain control over the camp environment and possibly overshadow fwb operations, ensuring that militia and guard interests are served.
+
+ user’s organization: fwb
+
+- motives and values (why): preserving the ability to operate independently and impartially, ensuring aid distribution is conducted fairly and reaches those most in need.
+- reasoning (how): independence enables fwb to assess needs, distribute aid, and interact with refugees without undue influence or pressure from parties that may have conflicting interests.
+- positions (what): fwb requests freedom for its staff to move within the camp and engage with refugees without guard presence, underlining the need for unbiased and unimpeded operations.
+
+in summary, the negotiation between fwb and the camp authorities is fraught with challenges arising from fundamentally conflicting values and objectives: fwb seeks to operate neutrally and impartially, focusing on the refugees' welfare, while the camp authorities prioritize local economic realities and maintaining control over resources and personnel. navigating this landscape requires careful consideration of both the practical and ethical dimensions involved.

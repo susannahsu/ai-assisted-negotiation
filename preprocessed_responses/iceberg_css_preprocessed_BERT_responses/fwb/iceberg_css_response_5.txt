@@ -1,0 +1,43 @@
+ aspect [NUMBER]: implementation of food distribution
+
+ counterparty (camp authorities)
+
+- positions (what): insist on local guards being employed for food distribution and demand compensation in food rations for their families.
+- reasoning (how): cling to this stance under the guise of security and logistical efficiency, stressing the simplicity and expediency it offers for food distribution.
+- motives and values (why): seek to maintain control over camp operations and resources, reinforcing their authority and ensuring the militia's influence and the local community's reliance on the camp for economic benefits.
+
+ user’s organization (fwb)
+
+- motives and values (why): commitment to impartial and neutral aid, prioritizing the dignity, safety, and wellbeing of refugees.
+- reasoning (how): believes employing non-militia members for distribution preserves neutrality and prevents diversion of aid.
+- positions (what): proposes to vet and hire local community members unrelated to the guards or militia, offering cash compensation to prevent aid diversion.
+
+ aspect [NUMBER]: nutritional assessments
+
+ counterparty (camp authorities)
+
+- positions (what): claim existing data on population nutritional status is sufficient, opposes new assessments.
+- reasoning (how): push for immediate food distribution based on outdated or possibly manipulated data to alleviate pressures on camp resources.
+- motives and values (why): aim to quickly gain control over new aid supplies, potentially for diversion to their own ends or to bolster their standing by swiftly addressing camp shortages.
+
+ user’s organization (fwb)
+
+- motives and values (why): ensuring aid effectiveness and transparency, fulfilling donor requirements for targeted assistance.
+- reasoning (how): a comprehensive assessment identifies the most vulnerable, directing resources effectively and fulfilling donor stipulations.
+- positions (what): advocates for conducting a fresh nutritional assessment to optimize aid allocation, aligning with best practices and donor expectations.
+
+ aspect [NUMBER]: compensation and employment practices
+
+ counterparty (camp authorities)
+
+- positions (what): demand food rations as the form of compensation for guards; disallow hiring outside the proposed guard pool.
+- reasoning (how): suggest that food rations are a practical compensation method due to local market conditions.
+- motives and values (why): intend to ensure their associated militia and families benefit directly from aid operations, maintaining their economic and social influence within the community.
+
+ user’s organization (fwb)
+
+- motives and values (why): committed to preventing aid diversion, ensuring aid reaches intended beneficiaries while respecting donor guidelines.
+- reasoning (how): prefers cash payments to discourage resale of aid and maintain program integrity, aiming for transparency and effective resource allocation.
+- positions (what): opposes in-kind food compensation to guards, seeks to employ vetted locals for distribution tasks, offering cash to support local economy and safeguard intended aid delivery.
+
+in each aspect, the direct clash of methods, priorities, and ethical stances underlines the negotiation's complexity, mandating a delicate balancing act to fulfill humanitarian objectives without compromising principles.

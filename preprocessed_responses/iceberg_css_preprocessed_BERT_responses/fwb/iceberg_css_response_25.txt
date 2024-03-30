@@ -1,0 +1,29 @@
+aspect [NUMBER]: food aid distribution and guard involvement
+- counterparty (camp authorities):
+  - positions (what): insist on utilizing local guards for the food aid distribution process, requiring compensation in the form of food rations.
+  - reasoning (how): believe guards are integral to maintaining order during distribution and argue their families face food insecurity, thus deserving compensation.
+  - motives and values (why): prioritize camp security and the well-being of guards' families; also, possibly aim to maintain control over resources and the refugee population.
+- user’s organization (fwb):
+  - motives and values (why): committed to impartial and efficient aid distribution, avoiding aid diversion, and maintaining neutrality.
+  - reasoning (how): concerns that involving guards risks aid diversion and conflicts with neutrality principles; preference for an independent, verifiable distribution process.
+  - positions (what): reject guards' involvement in the distribution process, strive for direct control over aid distribution, and insist on cash compensation for legitimate laborers to maintain aid integrity.
+
+aspect [NUMBER]: employment of camp laborers
+- counterparty (camp authorities):
+  - positions (what): demand that fwb hires local guards, rejecting other employment options.
+  - reasoning (how): control over employment ensures camp security and supports the local militia-associated community.
+  - motives and values (why): maintain economic and logistical control over the camp environment, support militia members and their families.
+- user’s organization (fwb):
+  - motives and values (why): ensure aid effectiveness, uphold principles of neutrality and impartiality.
+  - reasoning (how): by employing community members not affiliated with militias, fwb aims to prevent aid diversion and reinforce neutrality.
+  - positions (what): intends to vet and hire laborers independently from the local community, excluding guards and their relatives, to prevent potential biases and conflicts of interest.
+
+aspect [NUMBER]: nutritional assessment and aid accountability
+- counterparty (camp authorities):
+  - positions (what): rejects the need for a new nutritional assessment by fwb, pressing for immediate food distribution without further delay.
+  - reasoning (how): aims to alleviate immediate pressure for food aid in the camp, possibly to maintain control over the distribution process.
+  - motives and values (why): desire to quickly demonstrate action being taken to assist refugees, possibly to sustain their authority and mitigate unrest.
+- user’s organization (fwb):
+  - motives and values (why): committed to transparency, accountability, and ensuring aid reaches those most in need based on verifiable assessments.
+  - reasoning (how): believes that accurate assessments are crucial for targeted aid distribution, aligning with donor stipulations and organizational integrity.
+  - positions (what): seeks to conduct its own nutritional assessment to identify and prioritize aid to the most vulnerable groups within the refugee population.

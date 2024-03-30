@@ -1,0 +1,37 @@
+aspect [NUMBER]: employment and compensation of local guards for food distribution
+
+- counterparty (camp authorities) position:
+    - positions (what): insist that fwb hires local guards for food distribution and compensates them with food rations.
+    - reasoning (how): argue that guards' roles in distribution extend beyond security, likening them to day laborers deserving of compensation, particularly in food rations given the regional economic context.
+    - motives and values (why): aim to secure resources for guards and their families, who are also experiencing food insecurity; maintain control over camp operations and economic ecosystem within the camp.
+    
+- user’s organization (fwb) motives and values:
+    - motives and values (why): committed to impartially providing emergency food aid, ensuring aid reaches intended beneficiaries without diversion.
+    - reasoning (how): believes hiring guards affiliated with militias could compromise neutrality and aid diversion, against donor stipulations and organizational principles.
+    - positions (what): proposes hiring and vetting labor from local community, not affiliated with the militia, and insists on cash compensation to prevent aid diversion.
+
+aspect [NUMBER]: conducting a nutritional assessment
+
+- counterparty (camp authorities) position:
+    - positions (what): deems existing nutritional status data collected by camp administration sufficient, urging fwb to bypass a new assessment and begin immediate distribution.
+    - reasoning (how): emphasizes the urgency of food distribution to alleviate refugee hardship.
+    - motives and values (why): likely aims to streamline the distribution process to quell unrest and maintain the status quo, which benefits the camp's overseers.
+
+- user's organization (fwb) motives and values:
+    - motives and values (why): committed to ensuring that food aid reaches those in dire need, in line with donors' requirements for accountability.
+    - reasoning (how): argues that an updated, thorough nutritional assessment is essential for tailored, effective food aid distribution.
+    - positions (what): seeks to conduct a new nutritional assessment despite camp authorities' opposition to accurately target aid.
+
+aspect [NUMBER]: freedom of movement within the camp
+
+- counterparty (camp authorities) position:
+    - positions (what): requires that guards always accompany fwb representatives within the camp, citing security concerns.
+    - reasoning (how): maintaining control over camp operations and interactions between fwb and refugees.
+    - motives and values (why): aim to safeguard their authority and oversight, preventing any undermining of their control or potential accountability.
+
+- user’s organization (fwb) motives and values:
+    - motives and values (why): strives for operational independence to freely engage with refugees, assessing needs without bias or intimidation.
+    - reasoning (how): believes unaccompanied access is crucial for establishing trust with refugees, accurately assessing needs, and ensuring aid efficiency.
+    - positions (what): requests freedom to move within the camp and engage with refugees without compulsory guard presence, challenging the camp authorities' stipulations.
+
+through these aspects and the associated positions, reasoning, and motives/values, it's apparent that the negotiation between fwb and the camp authorities revolves around balancing the urgency of humanitarian aid with maintaining fwb’s principles against the backdrop of complex local dynamics.

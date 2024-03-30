@@ -1,0 +1,41 @@
+ negotiation strategy: food without borders (fwb) and camp authorities
+
+ aspect [NUMBER]: involvement of local guards in food distribution
+
+- counterparty (camp authorities) position, reasoning, and motives:
+    - positions (what): insists on fwb employing local guards for food distribution.
+    - reasoning (how): argues guards perform duties beyond security, warranting compensation akin to day laborers.
+    - motives and values (why): seeks to maintain control within the camp, ensuring guards (and by extension their families) receive food as compensation, addressing food insecurity while sustaining their power structure.
+
+- user’s organization (fwb) motives, reasoning, and positions:
+    - motives and values (why): ensuring neutrality, impartiality, and preventing the diversion of aid.
+    - reasoning (how): utilizes a principled stance against empowering potentially coercive local forces, to prevent compromising fwb's operational integrity and aid effectiveness.
+    - positions (what): opposes hiring guards involved with local militia, advocates for the right to independently vet and hire daily laborers outside the militias.
+
+ aspect [NUMBER]: compensation for local guards
+
+- counterparty (camp authorities) position, reasoning, and motives:
+    - positions (what): demands food rations as compensation for the services of local guards.
+    - reasoning (how): justifies this by highlighting the utility of food rations in the local economy over cash, due to high market prices and scarcity of goods.
+    - motives and values (why): aims to alleviate guard's food insecurity, while also potentially diverting resources for personal or militia gain.
+
+- user’s organization (fwb) motives, reasoning, and positions:
+    - motives and values (why): committed to direct and efficient aid delivery to refugees, ensuring aid is not diverted.
+    - reasoning (how): believes cash compensation maintains integrity and allows for traceability of resources, avoiding propelling an illicit market.
+    - positions (what): rejects food rations as compensation, preferring cash payments to safeguard aid from being hijacked.
+
+ aspect [NUMBER]: nutritional assessment and aid distribution plan
+
+- counterparty (camp authorities) position, reasoning, and motives:
+    - positions (what): prefers immediate food distribution without new assessments.
+    - reasoning (how): claims existing data is sufficient; emphasizes urgent relief to alleviate pressure on families.
+    - motives and values (why): prioritizes rapid assistance, potentially to diminish internal camp strains or to avoid transparent assessments which may reveal diversion of aid.
+
+- user’s organization (fwb) motives, reasoning, and positions:
+    - motives and values (why): executes a committed approach to identify and assist those in genuine need, abiding by donor requirements for informed aid delivery.
+    - reasoning (how): advocates for up-to-date, data-driven assessments to ensure correct targeting and meet donor obligations.
+    - positions (what): demands completion of a new nutritional assessment before launching the food distribution to accurately address and prioritize needs.
+
+---
+
+this structured negotiation strategy outlines the varying stances of fwb and the camp authorities across three critical aspects of their engagement. through understanding these positions and their underpinnings, fwb can tailor its approach to negotiate effectively, aiming to uphold its principles while navigating the complex dynamics present.

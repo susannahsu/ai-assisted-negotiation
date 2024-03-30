@@ -1,0 +1,53 @@
+ aspect [NUMBER]: hiring and compensation of local guards for food distribution
+
+counterparty: camp authorities
+
+- positions (what): camp authorities demand that local guards be hired and involved in the food distribution process, compensated with food rations.
+  
+- reasoning (how): they argue that the guards play a vital role in camp security and logistics, asserting that their compensation in food rations addresses the local economic conditions where food is more valuable than cash.
+  
+- motives and values (why): the camp authorities aim to maintain control and stability within the camp through the guards, who are part of the local militia. compensating with food rations supports the guards and their families, underpinning a local economy dependent on such arrangements.
+
+user’s organization: fwb
+
+- motives and values (why): fwb prioritizes impartial and neutral humanitarian aid, aiming to prevent the diversion of food from refugees and maintain operational independence.
+  
+- reasoning (how): fwb opposes hiring guards as it could compromise the neutrality of the aid and risks diverting essential food resources from refugees to militia members. cash payments are preferred to minimize the risk of food diversion.
+  
+- positions (what): fwb refuses to employ guards as part of the food distribution team and seeks alternatives for hiring and compensation that align with their principles.
+
+ aspect [NUMBER]: protection and autonomy in the camp
+
+counterparty: camp authorities
+
+- positions (what): they insist that fwb staff must always be accompanied by guards when moving within the camp.
+  
+- reasoning (how): the camp authorities present this as a security measure, intended to protect fwb staff and ensure orderly distribution of aid.
+  
+- motives and values (why): maintaining a tight grip on camp operations and preventing any unauthorized interactions with refugees aligns with their control objectives and the desire to regulate narratives and activities within the camp.
+
+user’s organization: fwb
+
+- motives and values (why): fwb aims to safeguard its principles of independence and impartiality, desiring direct access to refugees to assess and respond to needs accurately.
+  
+- reasoning (how): fwb believes that autonomy in the camp allows for a better understanding of the needs and ensures aid reaches those most in need without interference or diversion.
+  
+- positions (what): fwb seeks the ability to operate freely within the camp, without the guards' oversight, to effectively conduct assessments and aid distribution.
+
+ aspect [NUMBER]: accurate needs assessment of refugees
+
+counterparty: camp authorities
+
+- positions (what): they consider existing nutritional status data collected by the camp administration adequate and urge fwb to proceed quickly with food distribution.
+  
+- reasoning (how): the camp authorities likely aim to expedite the distribution to ease internal pressures and display responsiveness to the refugee crisis.
+  
+- motives and values (why): their stance could reflect concerns about maintaining control and fulfilling responsibilities with minimal external scrutiny or intervention that could challenge their authority or reveal discrepancies in their data.
+
+user’s organization: fwb
+
+- motives and values (why): fwb commits to a comprehensive and accurate assessment of refugee needs to ensure aid targets those most in need, adhering to donor stipulations for accountability and effectiveness.
+  
+- reasoning (how): conducting a thorough nutritional assessment allows fwb to align its distribution efforts with actual needs, preventing wastage and optimizing resource use according to humanitarian principles.
+  
+- positions (what): fwb insists on conducting its nutritional assessment before starting food distribution, challenging the camp authorities' push for immediacy.

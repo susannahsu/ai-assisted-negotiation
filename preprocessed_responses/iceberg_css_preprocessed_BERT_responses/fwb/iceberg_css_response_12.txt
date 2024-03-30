@@ -1,0 +1,47 @@
+based on the comprehensive information provided, a negotiation strategy encompassing the iceberg and common shared space (css) models will be devised to address three critical negotiation aspects: the involvement of militia-associated guards in food distribution, compensation in food rations, and conducting a nutritional assessment.
+
+ [NUMBER]. involvement of militia-associated guards in food distribution
+
+counterparty - camp authorities:
+
+- positions (what): insist on the involvement of local guards in food distribution.
+- reasoning (how): believe that guards can provide necessary security and manage the distribution process, as they are familiar with the camp dynamics and residents.
+- motives and values (why): ensure control over the camp population, maintain influence and power within the camp, and address guards' expectations for employment and compensation.
+
+user’s organization - fwb:
+
+- motives and values (why): uphold principles of neutrality, impartiality, and independence; avoid empowering military elements; ensure food aid reaches the intended beneficiaries without diversion.
+- reasoning (how): hiring local guards risks fwb's neutrality and could result in aid diversion, threatening the effectiveness of humanitarian efforts.
+- positions (what): oppose hiring militia-associated guards; advocate for hiring independent daily laborers or volunteers from among the refugee population or local community not affiliated with militias.
+
+ [NUMBER]. compensation in food rations
+
+counterparty - camp authorities:
+
+- positions (what): demand that local guards receive compensation in food rations.
+- reasoning (how): argue that guards' families also face food insecurity and that food rations are more practical in the local economy.
+- motives and values (why): address personal and familial needs of guards; sustain the local power structure and economy that revolves around the exchange of food rations.
+
+user’s organization - fwb:
+
+- motives and values (why): ensure that food aid reaches those most in need without diversion; maintain the integrity of humanitarian aid.
+- reasoning (how): payment in food rations increases the risk of aid diversion and undermines the purpose of direct food assistance to refugees.
+- positions (what): advocate for cash compensation where feasible, or introduce measures to ensure food rations are not diverted if they must be used as payment.
+
+ [NUMBER]. conducting a nutritional assessment
+
+counterparty - camp authorities:
+
+- positions (what): oppose a new nutritional assessment by fwb, and recommend using existing data.
+- reasoning (how): a new assessment may delay food distribution, potentially uncovering data that could challenge the authority's narrative or priorities.
+- motives and values (why): maintain control over information and resources within the camp; possibly concerned about exposure of neglect or mismanagement.
+
+user’s organization - fwb:
+
+- motives and values (why): guarantee aid effectiveness by assessing and addressing the actual needs of the refugee population based on up-to-date, accurate information.
+- reasoning (how): a thorough nutritional assessment identifies the most vulnerable individuals, ensuring that aid is distributed based on need, aligning with donors' requirements and principles of fairness.
+- positions (what): insist on conducting an independent nutritional assessment to inform the food distribution plan, advocating for transparency and effectiveness in aid delivery.
+
+ common shared space (css) strategy:
+
+each negotiation aspect can be approached through finding a css that acknowledges both parties' valid concerns while upholding humanitarian principles. for example, the involvement of local community members in the distribution process, provided they are not affiliated with militias, could serve as a compromise neutralizing tensions regarding neutrality and security. similarly, innovative solutions such as transparent mechanisms for food ration compensation—should it be unavoidable—could ensure that distributions reach their intended recipients while addressing local guards' needs. lastly, collaborating on a nutritional assessment that respects the camp authorities' concerns about delays while meeting fwb's necessity for accurate data to drive their distribution efforts might offer a pathway to consensus.

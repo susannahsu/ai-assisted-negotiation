@@ -1,0 +1,41 @@
+ aspect [NUMBER]: employment and compensation of local guards for food ration distribution
+
+counterparty: camp authorities
+
+- positions (what): camp authorities demand that fwb hires local guards to assist in the food ration distribution process and compensates them with food rations.
+- reasoning (how): authorities argue that guards' duties extend beyond security during distribution and that their families face food insecurity. the local economy's reliance on food rations as compensation necessitates this demand.
+- motives and values (why): the underlying motive is to sustain the local militia and their families, maintaining a socio-economic structure that consolidates their power and control within the camp, leveraging humanitarian aid for their benefit.
+
+user’s organization: food without borders (fwb)
+
+- motives and values (why): fwb is committed to providing emergency food aid impartially and neutrally, aiming to prevent diversion of aid to ensure it reaches those truly in need.
+- reasoning (how): hiring guards affiliated with the militia contradicts fwb’s mandate for neutrality and risks diverting aid from refugees to the militia network, undermining the effectiveness and fairness of the distribution process.
+- positions (what): fwb refuses to hire local militia members as guards and proposes to hire and vet its labor force independently, prioritizing local community members unaffiliated with the militia.
+
+ aspect [NUMBER]: method and urgency of food distribution
+
+counterparty: camp authorities
+
+- positions (what): camp authorities require immediate distribution based on their own data without further assessments, proposing a three-month distribution plan to alleviate pressure.
+- reasoning (how): authorities seek to rapidly address visible symptoms of food insecurity to maintain order and possibly to leverage distribution timing and control for their interests.
+- motives and values (why): ensuring the continuity of their power and mitigating risks of unrest or refugee mobility out of the camp that could challenge their control and the strategic positioning regarding the capital.
+
+user’s organization: food without borders (fwb)
+
+- motives and values (why): fwb upholds the principle of conducting thorough assessments to ensure aid reaches those in dire need, maintaining donor trust, and ensuring the responsible use of resources.
+- reasoning (how): conducting a nutritional assessment aligns with the organization’s methodical approach to aid delivery, ensuring efficiency, transparency, and adherence to donor stipulations.
+- positions (what): fwb insists on performing its comprehensive nutritional assessment despite camp authorities' demands for swift action, advocating for an informed and targeted response.
+
+ aspect [NUMBER]: security and monitoring during distribution
+
+counterparty: camp authorities
+
+- positions (what): authorities insist on the presence of guards during distribution, controlling fwb's mobility within the camp.
+- reasoning (how): by controlling fwb's interactions with refugees, authorities aim to maintain narrative control and ensure their interests are not undermined.
+- motives and values (why): protecting their authority and maintaining order as they define it, minimizing external influences that could empower refugees or challenge the existing power dynamics.
+
+user’s organization: food without borders (fwb)
+
+- motives and values (why): fwb's adherence to principles of neutrality, impartiality, and independence drives its operations, striving to ensure aid directly benefits those in need without unintended empowerment of local militias.
+- reasoning (how): fwb believes that unrestricted access to refugees allows for accurate needs assessment, direct dialogue, and effective aid distribution, enhancing transparency and accountability.
+- positions (what): fwb is seeking to negotiate terms that would allow its staff to operate without compulsory escort by guards, enabling free movement and engagement with refugees to facilitate direct aid distribution.

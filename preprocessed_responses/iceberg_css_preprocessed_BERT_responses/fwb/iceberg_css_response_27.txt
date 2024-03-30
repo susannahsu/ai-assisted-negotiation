@@ -1,0 +1,43 @@
+aspect [NUMBER]: hiring local guards for food distribution
+
+counterparty: camp authorities
+
+- positions (what): insist that fwb hires local guards to assist in food ration distribution.
+- reasoning (how): assert that guards' involvement extends beyond security to include logistical support, warranting compensation akin to day laborers.
+- motives and values (why): seek to secure employment and food for guards and their families, who are also facing food insecurity. this stance also reinforces their control over camp operations and resources.
+
+user’s organization: fwb
+
+- motives and values (why): committed to principles of neutrality, impartiality, and independence; seeks to prevent the diversion of aid and ensure aid reaches those most in need.
+- reasoning (how): hiring guards, especially those affiliated with local militias, could compromise fwb's neutrality and risk aid diversion, violating its foundational principles and donor agreements.
+- positions (what): opposes hiring local guards for food distribution, preferring to employ non-affiliated local community members instead.
+
+aspect [NUMBER]: method of compensation
+
+counterparty: camp authorities
+
+- positions (what): demand food rations as compensation for the guards' services.
+- reasoning (how): argue that food rations are a vital form of compensation in a region where cash has limited utility, and many families, including guards', are facing food insecurity.
+- motives and values (why): aiming to address the immediate needs of their personnel and maintain their loyalty and operational capacity within the camp.
+
+user’s organization: fwb
+
+- motives and values (why): aims to ensure that all aid directly benefits the refugees and to uphold transparency and accountability to donors.
+- reasoning (how): believes that providing food rations as compensation could lead to the diversion of aid and contravene fwb’s policies and donor agreements.
+- positions (what): proposes paying daily laborers in cash rather than in-kind with food rations, to discourage aid diversion and maintain focus on assisting refugees.
+
+aspect [NUMBER]: freedom of movement within the camp
+
+counterparty: camp authorities
+
+- positions (what): restrict fwb staff movement within the camp without guard escort.
+- reasoning (how): cite security concerns as justification for requiring guard accompaniment.
+- motives and values (why): maintain control over the camp and monitor fwb activities, possibly to mitigate threats to their authority and prevent the dissemination of information that could be unfavorable to them.
+
+user’s organization: fwb
+
+- motives and values (why): ensure the efficiency and impartiality of aid distribution, uphold fwb’s operational independence, and directly engage with refugees to assess and meet their needs accurately.
+- reasoning (how): restricting movement impedes fwb's ability to conduct thorough assessments, interact with refugees, and accurately distribute aid based on need rather than coercion or control exerted by guards.
+- positions (what): demand freedom of movement within the camp for fwb staff to effectively manage food distribution and engage with the refugee population without the imposition of guard escorts.
+
+this negotiation framework showcases the contrasting positions, underlying rationales, and the foundational values driving each party. fwb's strategy should aim to find common ground that respects both parties’ core values while prioritizing the needs and welfare of the refugee population.

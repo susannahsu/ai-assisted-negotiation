@@ -1,0 +1,39 @@
+given the extensive and complex situation involving food without borders (fwb) and the refugee camps overseen by local authorities and camp guards, the negotiation landscape can be analyzed using the provided models. we can outline the positions, reasoning, and motives/values for both fwb (the user’s organization) and the local camp authorities (the counterparty) based on the three aspects: the employment of guards for food distribution, the method of compensating those employed, and ensuring the safety and effectiveness of food distribution to refugees.
+
+ employment of guards for food distribution
+
+counterparty (camp authorities)
+- positions: insist fwb hires local guards for the food ration distribution process.
+- reasoning: justifies their demand by highlighting the security needs during food distribution and the guards’ expanded duties requiring compensation.
+- motives and values: ensure control over the camp and distribution process, consolidate power, and secure resources for the guards and their families, underscoring a value placed on loyalty and self-preservation.
+
+user’s organization (fwb)
+- motives and values: fwb values impartiality, neutrality, and the efficient delivery of aid to those in need without exacerbating local conflicts or endorsing armed groups.
+- reasoning: hiring local militia members compromises fwb’s principles and risks the diversion of aid, challenging the effectiveness of its humanitarian mission.
+- positions: opposes the hiring of guards associated with local militias for distribution tasks, favoring vetted locals or community members not involved in armed activities.
+
+ method of compensating employed individuals
+
+counterparty
+- positions: advocates for compensating guards in food rations instead of cash, citing local market conditions and their families' needs.
+- reasoning: argues that food rations are a more valuable and practical form of compensation due to high local food prices and limited market availability.
+- motives and values: prioritizes sustaining their economic model and support network within the camp, emphasizing a localized value system where goods (food rations) hold more significance than cash.
+
+user’s organization (fwb)
+- motives and values: committed to ensuring that humanitarian aid reaches its intended beneficiaries without diversion or misuse. aims for transparency and accountability in aid distribution.
+- reasoning: paying in food rations risks diverting essential supplies away from refugees, contradicting fwb’s mission and donor stipulations.
+- positions: prefers cash payments to avoid aid diversion, seeking methods that align with humanitarian standards while minimizing exploitation.
+
+ ensuring safety and effectiveness in food distribution
+
+counterparty
+- positions: demands that guards must accompany fwb staff within the camp for security purposes.
+- reasoning: claims security concerns necessitate a guarded presence, asserting control over the distribution process and camp overall.
+- motives and values: maintains power and authority within the camp, using security as a rationale for oversight and to exert control over humanitarian activities.
+
+user’s organization (fwb)
+- motives and values: ensures the safety, dignity, and well-being of refugees, aiming to distribute aid effectively without contributing to local tensions or conflicts.
+- reasoning: believes that operating independently of the armed factions within the camp is crucial for maintaining neutrality and ensuring aid reaches those in need without interference or diversion.
+- positions: requests to operate without armed escort within the camp, advocating for direct engagement with the refugee population to assess and respond to needs accurately.
+
+the negotiation strategy for fwb should focus on finding a balanced approach that respects its humanitarian mission and values while navigating the complex demands and motives of the camp authorities. this may involve seeking external support or oversight, leveraging international pressure, and finding alternative solutions for security and labor that align with both parties' acceptable outcomes.

@@ -1,0 +1,39 @@
+given the complex dynamics and various stakeholders involved in this case, presenting the negotiation strategy for food without borders (fwb) and the camp authorities requires a nuanced understanding of each party's positions, reasoning, and underlying motives and values.
+
+ [NUMBER]. employment and compensation of local guards
+
+ counterparty (camp authorities and local guards)
+- positions (what): insist on employing local guards for food distribution and compensating them with food rations.
+- reasoning (how): the guards' roles are not only for security but also for logistical support during distribution, which should be compensated. furthermore, food rations are deemed a practical form of compensation due to the local economic situation.
+- motives and values (why): to ensure control over the distribution process, maintain influence in the camp, and address their food insecurity.
+
+ user’s organization (fwb)
+- motives and values (why): fwb is committed to impartiality, neutrality, and ensuring aid reaches its intended beneficiaries without diversion.
+- reasoning (how): hiring guards associated with local militias could compromise fwb's neutrality and risk aid diversion. cash payments for workers align with fwb's policy and donor requirements.
+- positions (what): fwb refuses to employ local guards for food distribution, preferring to hire other local community members and compensate them in cash to adhere to principles and donor guidelines.
+
+ [NUMBER]. security and operational independence in the camp
+
+ counterparty (camp authorities)
+- positions (what): demand that fwb representatives are accompanied by guards at all times within the camp.
+- reasoning (how): cited security concerns and the assertion of control over the camp's operations.
+- motives and values (why): maintaining authority within the camp and ensuring any external presence operates under their oversight.
+
+ user’s organization (fwb)
+- motives and values (why): fwb values independence in its operations to effectively assess and respond to humanitarian needs without bias or intimidation.
+- reasoning (how): independent operations allow fwb to conduct thorough needs assessments and ensure aid distribution is based on need, not coercion.
+- positions (what): requests freedom for its staff to move and operate within the camp without guard presence, aiming for an impartial distribution of aid.
+
+ [NUMBER]. nutritional assessment and distribution plan
+
+ counterparty (camp authorities)
+- positions (what): oppose a new nutritional assessment and demand immediate initiation of a three-month food ration distribution.
+- reasoning (how): believe that existing data is sufficient and aim to alleviate immediate pressure on food resources within the camp.
+- motives and values (why): to quickly address food shortages and prevent unrest or movements toward the capital, maintaining control over the refugee population.
+
+ user’s organization (fwb)
+- motives and values (why): fwb is committed to ensuring that aid is delivered based on actual needs and to preventing diversion by militias.
+- reasoning (how): conducting a new nutritional assessment allows for an informed distribution plan that aligns with the principles of fairness and efficiency, satisfying donor requirements.
+- positions (what): proposes conducting a comprehensive nutritional assessment to inform a targeted and effective food distribution strategy.
+
+in forming a negotiation strategy, fwb needs to tactically leverage available information, understand the camp authorities' pressure points (e.g., the need to feed guards and avoid unrest), and propose solutions that can serve both parties' underlying values without compromising fwb's principles. solutions like independent third-party oversight for food distribution, separate but parallel support systems for guards' families, or involving neutral entities for assessments and workforce recruitment might emerge as viable options through negotiation, aligning with the iceberg and css models to tackle both explicit and implicit concerns.

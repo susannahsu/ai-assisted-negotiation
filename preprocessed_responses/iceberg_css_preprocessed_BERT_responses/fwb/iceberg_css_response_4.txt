@@ -1,0 +1,45 @@
+given the detailed backdrop and complexities encapsulated within fwb's mission to provide food assistance to refugees in country alpha, it's essential to dissect the negotiation terrain using both the iceberg and common shared space (css) models. here is a structured summary that dichotomizes the positions, reasoning, and motives & values for both the camp authorities (counterparty) and food without borders (fwb, the user's organization) concerning three pivotal aspects.
+
+ aspect [NUMBER]: employment and compensation of local guards
+
+counterparty: camp authorities
+
+- positions (what): insist that fwb employs local guards for the food distribution process and compensates them with food rations.
+- reasoning (how): the guards offer "security" and logistical help during distribution, face food insecurity, and cash has limited value in the local economy.
+- motives and values (why): prioritize feeding their personnel, maintain control over camp dynamics, and support the local militia-linked economy.
+
+user’s organization: fwb
+
+- motives and values (why): ensure efficient and impartial aid distribution, maintain neutrality and independence, and prevent food diversion.
+- reasoning (how): hiring guards conflicts with neutrality principles and risks food aid diversion. prefers employing from the local community to avoid empowering the militia.
+- positions (what): opposes employing guards or compensating with food rations due to policies and donor agreements. seeks to hire vetted local civilians.
+
+ aspect [NUMBER]: nutritional assessment and distribution urgency
+
+counterparty: camp authorities
+
+- positions (what): argue existing nutritional data is sufficient and demand immediate food distribution to alleviate pressure.
+- reasoning (how): aims to quickly respond to growing food needs and avoids outside scrutiny that could reveal the extent of their control.
+- motives and values (why): preserve control over the camp population, mitigate risk of discontent that could destabilize their authority.
+
+user’s organization: fwb
+
+- motives and values (why): ensure aid reaches those most in need through accurate assessments, aligning with donor stipulations.
+- reasoning (how): conducting a nutritional assessment affirms the effectiveness and target of aid distribution, fulfilling the requirement of thoroughness and accountability to donors.
+- positions (what): intends to conduct a week-long assessment despite the commander's opposition, to prioritize aid to the severely needy.
+
+ aspect [NUMBER]: freedom to operate without guard supervision
+
+counterparty: camp authorities
+
+- positions (what): mandate that fwb staff be accompanied by guards at all times within the camp.
+- reasoning (how): asserts security concerns and control over interactions between fwb and refugees.
+- motives and values (why): maintain dominance in the camp, monitor fwb activities and possibly manipulate distribution processes.
+
+user’s organization: fwb
+
+- motives and values (why): uphold principles of independence and direct engagement with beneficiaries to accurately address needs and ensure dignity.
+- reasoning (how): believes that operating freely without guard supervision facilitates unbiased aid delivery and safeguards against intimidation.
+- positions (what): requests to move and interact within the camp without guard presence, clashing with the camp commander’s stipulations.
+
+this structured approach highlights the negotiation landscape's complexity, underlying tensions, and the balancing act required from fwb to navigate these challenges effectively.

@@ -1,0 +1,32 @@
+ aspect [NUMBER]: involvement of local guards in food distribution
+ counterparty (camp authorities)
+- positions (what): demand that fwb hires local guards to assist in food ration distribution.
+- reasoning (how): believe guards' duties go beyond security, aiding in distribution management and should be compensated equivalently to day laborers.
+- motives and values (why): to provide food security for guards' families; maintaining control and authority within the camp; ensuring the local militia, including guards, remains operational and rewarded for their service.
+
+ user’s organization (fwb)
+- motives and values (why): upholding principles of neutrality, impartiality, and independence; ensuring food aid reaches refugees without diversion or exploitation.
+- reasoning (how): hiring local guards, members of the militia, conflicts with fwb’s neutrality and might lead to aid diversion.
+- positions (what): opposes hiring local guards for food distribution; seeks to employ daily laborers from the local community surrounding the camp, subject to fwb’s vetting.
+
+ aspect [NUMBER]: compensation for local guards
+ counterparty (camp authorities)
+- positions (what): seek food rations as compensation for guards’ families, arguing it's the most practical form of remuneration in the current economy.
+- reasoning (how): cash has limited utility locally; food rations are more valuable and necessary for sustenance.
+- motives and values (why): addressing the food insecurity of guards’ families; leveraging food aid distribution to ensure guards are compensated in a valuable manner; supporting the local militia infrastructure through in-kind contributions.
+
+ user’s organization (fwb)
+- motives and values (why): preventing diversion of food aid from its intended beneficiaries; ensuring food assistance reaches those most in need.
+- reasoning (how): paying guards in food rations risks diverting aid away from refugees, contravening fwb’s policies and possibly exacerbating the crisis.
+- positions (what): prefers cash compensation to employees to prevent aid diversion and maintain adherence to donor agreements and organizational principles.
+
+ aspect [NUMBER]: fwb’s operational independence
+ counterparty (camp authorities)
+- positions (what): insist on oversight of fwb activities within the camp via local guard accompaniment.
+- reasoning (how): citing security concerns and the need for camp order as justifications for strict oversight.
+- motives and values (why): maintaining control over the refugee population and the distribution of aid, possibly to strengthen the local militia’s influence and authority within the camp.
+
+ user’s organization (fwb)
+- motives and values (why): ensuring the integrity and effectiveness of aid distribution based on human rights and dignity; adhering to the organization’s core principles.
+- reasoning (how): fwb's independence in operations is essential for unbiased and equitable aid distribution, securing the trust of refugees and donors.
+- positions (what): requests freedom of movement for its staff within the camp to engage directly with refugees without guard presence, aiming for a more transparent and efficient distribution process.

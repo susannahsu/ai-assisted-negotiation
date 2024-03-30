@@ -1,0 +1,37 @@
+ negotiation aspects between fwb and camp authorities
+
+[NUMBER]. requirement for fwb to hire local guards for food distribution
+
+- counterparty (camp authorities):
+  - positions: insist that fwb hires local guards for food distribution.
+  - reasoning: believe guards are essential for maintaining order and security during distribution. additionally, view this as an opportunity to provide financial or in-kind support to the guards and their families.
+  - motives and values: aim to sustain local militia members and their families through employment and compensation; enhance control over camp operations and resources.
+
+- user's organization (fwb):
+  - motives and values: committed to neutrality, impartiality, and ensuring aid reaches those in need without diversion. aims to provide aid responsibly without contributing to potential conflicts of interest or exploitation.
+  - reasoning: believes hiring local guards tied to militias contravenes its principles and risks aid diversion. prefers to independently vet and hire staff to maintain impartiality and ensure aid distribution efficiency.
+  - positions: rejects the demand to hire local guards for food distribution due to concerns about neutrality and the potential for aid diversion.
+
+[NUMBER]. compensation in food rations for guards
+
+- counterparty (camp authorities):
+  - positions: demand that local guards receive food rations as compensation.
+  - reasoning: argue that due to high food prices and limited utility of cash in the region, food rations are a more practical form of compensation.
+  - motives and values: seeks to provide sustenance for guards’ families facing food insecurity; maintain a semblance of economic stability within the camp communities.
+
+- user's organization (fwb):
+  - motives and values: aims to ensure that aid reaches its intended recipients without being subject to unethical diversion or resale.
+  - reasoning: concerned that distributing food rations as compensation could lead to the reallocation of aid away from needy refugees and towards the market, contravening donor agreements and organizational principles.
+  - positions: opposes the idea of compensating guards in food rations to prevent potential diversion of aid.
+
+[NUMBER]. autonomy in conducting nutritional assessments and staff hiring
+
+- counterparty (camp authorities):
+  - positions: oppose fwb conducting its own nutritional assessments and hiring non-guard labor.
+  - reasoning: prefer to use existing data and maintain control over who operates within the camp, likely to ensure continued influence and oversight.
+  - motives and values: desire to uphold authority within the camp and possibly prevent uncovering of misallocated aid resources; maintain economic and social structure benefiting the militia.
+
+- user's organization (fwb):
+  - motives and values: committed to accurately identifying and assisting the most vulnerable based on impartial and accurate assessments; dedicated to maintaining operational independence and adherence to humanitarian principles.
+  - reasoning: a comprehensive nutritional assessment ensures aid is appropriately targeted, and independent hiring practices ensure staff integrity and impartiality.
+  - positions: insists on conducting its own nutritional assessments and vetting of potential workers to ensure efficiency and fairness in aid distribution, opposing the camp authorities' demands.

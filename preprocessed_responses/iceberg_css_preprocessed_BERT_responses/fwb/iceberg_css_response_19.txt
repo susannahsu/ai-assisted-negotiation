@@ -1,0 +1,41 @@
+ negotiation strategy for fwb with camp authorities
+
+ aspect [NUMBER]: hiring local guards for food distribution
+
+counterparty: camp authorities
+- positions (what): insist that fwb hires local guards for food distribution.
+- reasoning (how): claim that guards not only provide security but also perform duties warranting compensation similar to other laborers.
+- motives and values (why): aim to secure employment and resources for the militia and local guards, maintaining control over the camp and preventing potential disturbances.
+
+user’s organization: fwb
+- motives and values (why): committed to neutrality, impartiality, and independence; aims to avoid empowering or legitimizing armed groups involved in the conflict.
+- reasoning (how): believes hiring guards compromises these principles and risks aid diversion.
+- positions (what): refuses to hire guards for food distribution, exploring hiring from the local civilian community instead.
+
+ aspect [NUMBER]: compensation with food rations
+
+counterparty: camp authorities & local guards
+- positions (what): demand compensation in food rations for the guards’ services.
+- reasoning (how): argue that the local economy and high food prices make food rations the most practical form of compensation.
+- motives and values (why): seek to mitigate food insecurity among the guards' families; leverage aid distribution for economic benefit.
+
+user’s organization: fwb
+- motives and values (why): determined to ensure food aid reaches its intended beneficiaries without diversion or misuse.
+- reasoning (how): concerned that compensating with food rations violates organizational policies and donor agreements.
+- positions (what): prefers cash compensation for workers to maintain control over food distribution and prevent aid diversion.
+
+ aspect [NUMBER]: operational independence and security
+
+counterparty: camp authorities
+- positions (what): require that guards accompany fwb staff for “security” within the camp.
+- reasoning (how): maintains control over the camp environment and fwb’s activities.
+- motives and values (why): aim to oversee and potentially manipulate aid distribution; secure their position and authority within the camp.
+
+user’s organization: fwb
+- motives and values (why): strives to carry out its humanitarian mission with autonomy, adhering to principles of neutrality and impartiality.
+- reasoning (how): believes that the presence of guards could intimidate refugees and hinder open communication; risks complicity in abuses.
+- positions (what): requests the freedom for its staff to move within the camp and engage with refugees without guard presence, ensuring a safe and impartial aid distribution.
+
+ conclusion:
+
+in navigating this complex negotiation, fwb seeks to uphold its humanitarian principles while effectively assisting the refugees in the camp. to achieve an agreement beneficial to the refugee population, fwb may need to explore creative solutions that respect its core values, such as involving neutral third parties in distribution efforts or negotiating alternative forms of guard compensation that do not involve direct aid diversion. additionally, leveraging the support of the international community or higher-level national authorities could be crucial in influencing the camp authorities’ stance.

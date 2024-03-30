@@ -1,0 +1,41 @@
+ aspect [NUMBER]: hiring local guards for food distribution
+
+counterparty: camp authorities
+
+- positions (what): the camp authorities insist that fwb must hire local guards to assist in the food ration distribution process.
+- reasoning (how): they argue that the guards' presence during food distribution is essential for maintaining order and security, and that these guards should be compensated for their additional duties.
+- motives and values (why): the underlying motive is to ensure their control over the camp and its resources, including humanitarian aid, while providing economic support and food security for the guards and their families, who are integral to the local militia's operations.
+
+user’s organization: food without borders (fwb)
+
+- motives and values (why): fwb is committed to maintaining neutrality, impartiality, and independence in its humanitarian efforts, aiming to prevent the diversion of aid and ensure it reaches those in true need.
+- reasoning (how): hiring guards affiliated with local militias contradicts fwb's principles and could lead to a compromise in the fair distribution of food, risking aid diversion.
+- positions (what): fwb refuses to hire local guards for food distribution, proposing instead to employ individuals from the local community outside the militia influence and insisting on vetting all potential hires.
+
+ aspect [NUMBER]: compensation for local guards
+
+counterparty: camp authorities
+
+- positions (what): the camp authorities demand that local guards be compensated with food rations for their services.
+- reasoning (how): they argue that food rations are a practical form of compensation in a region where cash holds limited utility due to high food prices.
+- motives and values (why): this stance reflects a strategy to sustain the local militia and guard families by leveraging humanitarian aid, underlining a prioritization of militia welfare over the equitable distribution of resources among all camp residents.
+
+user’s organization: food without borders (fwb)
+
+- motives and values (why): fwb aims to ensure that all aid directly benefits the refugee population, adhering to donor stipulations and organizational integrity.
+- reasoning (how): providing guards with food rations risks diverting essential aid from refugees, potentially supporting militia operations indirectly.
+- positions (what): fwb opposes in-kind food payments to guards, favoring cash compensation to support the local economy and maintain the integrity of humanitarian aid distribution.
+
+ aspect [NUMBER]: operational control within the camp
+
+counterparty: camp authorities
+
+- positions (what): the camp commander emphasizes that guards must accompany fwb representatives for security, disallowing fwb from hiring outside the prescribed guards.
+- reasoning (how): the insistence on guard accompaniment aims to maintain strict control over camp operations and surveillance over fwb activities.
+- motives and values (why): the camp authorities, aligned with local militia interests, value maintaining authority and oversight within the camp to ensure the continued operation under their terms, using security concerns as justification.
+
+user’s organization: food without borders (fwb)
+
+- motives and values (why): fwb values its ability to operate independently, aiming to provide aid based on need without external influence, ensuring the dignity and safety of refugees.
+- reasoning (how): independent operation without militia interference is essential for conducting unbiased assessments and securing the trust of the refugee population.
+- positions (what): fwb requests to operate without mandatory guard accompaniment, seeking to conduct activities such as nutritional assessments and food distribution based on impartial humanitarian principles.

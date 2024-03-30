@@ -15,20 +15,18 @@ client = OpenAI(
     api_key=key
 )
 
-user_prompt = 'prompts/fwb_prompt.txt'
-agent_prompt = 'prompts/ioa_prompt.txt'
+user_prompt_path = '../prompts/hfa_prompt.txt'
+agent_prompt_path = '../prompts/iceberg_css_prompt.txt'
 
 def load_prompt_from_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
 
-def generate_user_prompt(user_prompt):
-    user_prompt_path = user_prompt  # Update this path
-    return load_prompt_from_file(user_prompt_path)
+def generate_user_prompt(file_path):
+    return load_prompt_from_file(file_path)
 
-def generate_agent_prompt(agent_prompt):
-    agent_prompt_path = agent_prompt  # Update this path
-    return load_prompt_from_file(agent_prompt_path)
+def generate_agent_prompt(file_path):
+    return load_prompt_from_file(file_path)
 
 def save_gpt_response_to_file(response, run_number, 
                               output_folder="gpt_responses", 
@@ -47,8 +45,8 @@ def run_gpt_process(n_runs=1, model="gpt-4-0125-preview",
                     output_folder="gpt_responses",
                     output_prefix="gpt_response"):
     for run_number in range (1, n_runs + 1):
-        agent_prompt = generate_agent_prompt()
-        user_input = generate_user_prompt()
+        agent_prompt = generate_agent_prompt(agent_prompt_path)
+        user_input = generate_user_prompt(user_prompt_path)
         completion = client.chat.completions.create(
             model=model,
             messages=[
@@ -61,6 +59,6 @@ def run_gpt_process(n_runs=1, model="gpt-4-0125-preview",
 
 N = 30
 model = "gpt-4-0125-preview"
-output_folder = "gpt_responses/IoA_response"
-output_prefix = "IoA_response"
+output_folder = "../gpt_responses/iceberg_css_responses/hfa"
+output_prefix = "iceberg_css_response_hfa"
 run_gpt_process(N, model, output_folder, output_prefix)

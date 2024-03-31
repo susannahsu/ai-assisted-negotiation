@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 
 # Specify the directory containing preprocessed text files
-preprocessed_dir = '../preprocessed_responses/iceberg_css_preprocessed_BERT_responses/fwb'
+preprocessed_dir = '../preprocessed_responses/IoA_preprocessed_BERT_responses/hfa'
 
 # Initialize BERT tokenizer and model
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
@@ -44,7 +44,7 @@ def main():
     # Calculate cosine similarity
     similarity_matrix = cosine_similarity(embeddings)
     
-    name = 'bert_cosine_similarity_matrix_iceberg_css_fwb.npy'
+    name = 'cosine_sim_matrix_BERT_IoA_hfa.npy'
     # Optionally, save the similarity matrix for later use
     np.save(name, similarity_matrix)
     

@@ -1,0 +1,97 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counter party (Camp Authorities)
+ax.plot(0, 0, 'ro', label='Camp Authorities')
+
+# FWB Position (representing the protagonist)
+x_fwb = 5  # Assuming FWB's inclination towards transformative objectives
+y_fwb = 5  # Global influence due to international operations
+ax.plot(x_fwb, y_fwb, 'go', label='FWB')
+
+# Additional Stakeholders
+# German Government (Donor)
+x_german_gov = 7
+y_german_gov = 7
+ax.plot(x_german_gov, y_german_gov, 'bo', label='German Government')
+
+# UN Humanitarian Coordinator
+x_un = 6
+y_un = 8
+ax.plot(x_un, y_un, 'bo', label='UN Humanitarian Coordinator')
+
+# Health for All (NGO)
+x_health = 3
+y_health = 4
+ax.plot(x_health, y_health, 'bo', label='Health for All')
+
+# MASHA (Local NGO)
+x_masha = 2
+y_masha = 2
+ax.plot(x_masha, y_masha, 'bo', label='MASHA')
+
+# Local Militia
+x_militia = -5
+y_militia = 1
+ax.plot(x_militia, y_militia, 'bo', label='Local Militia')
+
+# Refugee leaders
+x_refugee_leaders = 4
+y_refugee_leaders = 6
+ax.plot(x_refugee_leaders, y_refugee_leaders, 'bo', label='Refugee Leaders')
+
+# Local Press
+x_press = 1
+y_press = -3
+ax.plot(x_press, y_press, 'bo', label='Local Press')
+
+# Mayor of Local Village
+x_mayor = -2
+y_mayor = 0
+ax.plot(x_mayor, y_mayor, 'bo', label='Mayor of Local Village')
+
+# Minister of Defense of Alpha
+x_minister_defense = -7
+y_minister_defense = 5
+ax.plot(x_minister_defense, y_minister_defense, 'bo', label='Minister of Defense')
+
+# Local Church Activists
+x_church = 4
+y_church = 3
+ax.plot(x_church, y_church, 'bo', label='Local Church Activists')
+
+# Adding labels to the points
+labels = ['Camp Authorities', 'FWB', 'German Government', 'UN Humanitarian Coordinator', 'Health for All', 
+          'MASHA', 'Local Militia', 'Refugee Leaders', 'Local Press', 'Mayor of Local Village', 
+          'Minister of Defense', 'Local Church Activists']
+coords = [(0,0), (x_fwb, y_fwb), (x_german_gov, y_german_gov), (x_un, y_un), (x_health, y_health), 
+          (x_masha, y_masha), (x_militia, y_militia), (x_refugee_leaders, y_refugee_leaders), (x_press, y_press), 
+          (x_mayor, y_mayor), (x_minister_defense, y_minister_defense), (x_church, y_church)]
+
+for coord, label in zip(coords, labels):
+    ax.annotate(label, coord, textcoords="offset points", xytext=(0,10), ha='center')
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_plot.png')
+plt.savefig(output_file_path)
+
+```
+This Python script generates a stakeholder map for the Food Without Borders (FWB) negotiations scenario concerning food assistance within a refugee camp in Country Alpha. It outlines the positions of various stakeholders, including the camp authorities, FWB, donor entities like the German government, local NGOs, and other influential parties within and outside the camp's context. 
+
+The placement of each stakeholder symbolizes their stance on transformative change versus conservative approaches (horizontal axis) and their influence from local to global levels (vertical axis). The Camp Authorities are placed at the origin to indicate their central role in opposition to FWB's objectives. This map provides a visual overview to support FWB in strategizing negotiations and interactions with these actors to fulfill their mission effectively.

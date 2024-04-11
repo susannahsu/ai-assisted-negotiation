@@ -1,0 +1,60 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map: FWB Assisting Refugees in Alpha')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counter party
+ax.plot(0, 0, 'ro', label='Camp Authorities')  # 'ro' for red circle, counter-party at the center
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Plotting stakeholders
+# FWB - User party
+ax.plot(5, 5, 'go', label='FWB')  # 'go' for green circle
+
+# Other stakeholders
+stakeholders_coords = {
+    'UN Humanitarian Coordinator': (2, 8),
+    'Local Church Activists': (1, 6),
+    'Health for All': (4, 4),
+    'MASHA': (3, 3),
+    'German Government': (6, 7),
+    'Council of Omega Abroad': (1, 9),
+    'Minister of Defense of Alpha': (-5, 8),
+    'Local Press': (-4, 6),
+    'Mayor of Local Village': (-2, -2),
+    'Local Guards Leaders': (-3, -4),
+    'Refugee Leaders': (5, 1),
+    'Militia Leaders': (-6, 0)
+}
+
+# Plotting each stakeholder on the map
+for label, (x, y) in stakeholders_coords.items():
+    ax.plot(x, y, 'bo')  # Plotting with blue circles
+    ax.annotate(label, (x, y), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Adding labels to the points; extra positioning for readability
+ax.annotate('Camp Authorities', (0, 0), textcoords="offset points", xytext=(-15,-15), ha='center')
+ax.annotate('FWB', (5, 5), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Show the plot
+# Note: In an actual Python script, this line saves the plot to a file instead of showing it directly
+# This placeholder code assumes the presence of a directory path; adjust accordingly for real use
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_map_fwb_alpha.png')
+plt.savefig(output_file_path)
+plt.show()
+```
+
+This script produces a visual representation of the stakeholders involved in the negotiation related to Food Without Borders (FWB) assisting refugees in Alpha. The counter party, camp authorities, is placed at the origin and marked in red. Each stakeholder's position signifies their inclination towards transformative vs. conservative approaches (x-axis) and their influence from local to global (y-axis). FWB is highlighted in green as the user party striving for a negotiation outcome favorable to its mission of humanitarian assistance. Additional stakeholders, ranging from international organizations like the UN, local NGOs, government officials, and refugee leaders, are plotted to showcase their varying alignments and influences in the scenario. This map serves as a foundation for strategizing negotiation approaches and identifying potential alliances or oppositions.

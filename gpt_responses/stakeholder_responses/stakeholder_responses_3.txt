@@ -1,0 +1,53 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map: Food Without Borders Assisting Refugees in Alpha')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counter party
+ax.plot(0, 0, 'ro', label='Camp Authorities')  # 'ro' for red circle
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Plot other parties
+# Example values for other parties, these should be replaced with actual values derived from the provided information
+stakeholders = {
+    'FWB': (5, 8),
+    'Refugee Leaders': (7, 9),
+    'Militia Leaders': (-7, 0),
+    'Local Guards Leaders': (-5, -1),
+    'Mayor of the local village': (2, 2),
+    'Minister of Defense of Alpha': (-5, 5),
+    'Council of Omega Abroad': (8, 10),
+    'UN Humanitarian Coordinator': (6, 7),
+    'Health for All': (3, 6),
+    'Local Church Activists': (4, 4),
+    'Local Press': (-3, 3),
+}
+
+# Plotting each stakeholder
+for party, coord in stakeholders.items():
+    ax.plot(coord[0], coord[1], 'bo', label=party)  # 'bo' for blue circle
+    
+# Adding labels to the points
+labels = ['Camp Authorities'] + list(stakeholders.keys())
+coords = [(0, 0)] + list(stakeholders.values())
+for i, txt in enumerate(labels):
+    ax.annotate(txt, coords[i], textcoords="offset points", xytext=(0,10), ha='center')
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', f'plot.png')
+plt.savefig(output_file_path)
+plt.show()
+```

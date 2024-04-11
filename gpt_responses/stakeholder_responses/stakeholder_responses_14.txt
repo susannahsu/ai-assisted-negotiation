@@ -1,0 +1,51 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Define stakeholder coordinates and labels
+stakeholders = {
+    'FWB': (5, 7),
+    'Camp Authorities': (0, 0),  # Counter Party, at origin
+    'UN Humanitarian Coordinator': (4, 9),
+    'Local Church Activists': (6, 4),
+    'Health for All': (2, 6),
+    'MASHA': (3, 5),
+    'Local Guards & Militia': (-3, 1),
+    'Refugee Leaders': (7, 3),
+    'Local Press': (-4, -2),
+    'Mayor of the Local Village': (-2, -1),
+    'Minister of Defense of Alpha': (-5, 0),
+    'Council of Omega Abroad': (8, 8),
+    'German Government (Donor)': (6, 6)
+}
+
+# Plot each stakeholder
+for label, coord in stakeholders.items():
+    ax.plot(coord[0], coord[1], 'bo')
+    ax.text(coord[0], coord[1], f" {label}", textcoords="offset points", xytext=(5,-5), ha='center')
+
+# Plot the counter party specifically in red
+ax.plot(0, 0, 'ro', label='Camp Authorities')  # 'ro' for red circle
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Show the plot or save it
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_map.png')
+plt.savefig(output_file_path)
+plt.show()
+```
+
+This Python script represents a stakeholder map for the case concerning Food Without Borders (FWB) assisting refugees in Alpha. The map visualizes the relationships and positions of various stakeholders, including the camp authorities (counter party), FWB (user party), along with other entities like the UN Humanitarian Coordinator, Health for All, and the German Government, among others. The placement of each stakeholder has been determined based on their inclination towards change (transformative to conservative) and their influence (local to global). Remember, you can adjust the coordinates and labels of stakeholders based on further analysis or evolving negotiation dynamics.

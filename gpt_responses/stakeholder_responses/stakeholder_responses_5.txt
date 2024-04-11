@@ -1,0 +1,86 @@
+```python
+import matplotlib.pyplot asplt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map: FWB Food Distribution Negotiation')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counter party (Camp Authorities) at the origin
+ax.plot(0, 0, 'ro', label='Camp Authorities')  # 'ro' for red circle
+
+# Add stakeholders with approximate positions on the plot
+# Positions are determined based on the negotiation affinity and influence 
+# (These positions need adjustment based on further analysis or user input)
+
+# FWB (User Party)
+x_fwb = 4
+y_fwb = 7
+ax.plot(x_fwb, y_fwb, 'go', label='FWB')  # 'go' for green circle
+
+# UN Humanitarian Coordinator
+x_un = 5
+y_un = 9
+ax.plot(x_un, y_un, 'bo', label='UN Humanitarian Coordinator')
+
+# Local guards/militia (Interests closely aligned with Camp Authorities)
+x_local_guards = 0
+y_local_guards = -2
+ax.plot(x_local_guards, y_local_guards, 'ro', label='Local Guards/Militia')
+
+# MASHA (Local NGO)
+x_masha = 3
+y_masha = 3
+ax.plot(x_masha, y_masha, 'bo', label='MASHA')
+
+# Health for All (NGO)
+x_health_all = 3
+y_health_all = 6
+ax.plot(x_health_all, y_health_all, 'bo', label='Health for All')
+
+# The Mayor of the local village
+x_mayor = -3
+y_mayor = -1
+ax.plot(x_mayor, y_mayor, 'bo', label='Mayor')
+
+# Minister of Defense of Alpha
+x_def_min = -5
+y_def_min = 5
+ax.plot(x_def_min, y_def_min, 'bo', label='Minister of Defense')
+
+# Council of Omega Abroad
+x_omega = 7
+y_omega = 8
+ax.plot(x_omega, y_omega, 'bo', label='Council of Omega Abroad')
+
+# Refugee Leaders
+x_ref_leaders = 5
+y_ref_leaders = 4
+ax.plot(x_ref_leaders, y_ref_leaders, 'bo', label='Refugee Leaders')
+
+# Adding labels to the points
+labels = ['Camp Authorities', 'FWB', 'UN Humanitarian Coordinator',
+          'Local Guards/Militia', 'MASHA', 'Health for All', 'Mayor',
+          'Minister of Defense', 'Council of Omega Abroad', 'Refugee Leaders']
+x_values = [0, x_fwb, x_un, x_local_guards, x_masha, x_health_all, x_mayor, x_def_min, x_omega, x_ref_leaders]
+y_values = [0, y_fwb, y_un, y_local_guards, y_masha, y_health_all, y_mayor, y_def_min, y_omega, y_ref_leaders]
+
+for i, txt in enumerate(labels):
+    ax.annotate(txt, (x_values[i], y_values[i]), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_map.png')
+plt.savefig(output_file_path)
+plt.show()
+```

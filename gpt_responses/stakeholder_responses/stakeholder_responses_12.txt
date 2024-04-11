@@ -1,0 +1,60 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counter party
+ax.plot(0, 0, 'ro', label='Camp Authorities')  # 'ro' for red circle
+
+# Define stakeholder positions
+stakeholders = {
+    'FWB': (5, 7),
+    'UN Humanitarian Coordinator': (2, 9),
+    'Local Church Activists': (4, 6),
+    'Health for All': (3, 5),
+    'MASHA': (4, 8),
+    'German Government': (6, 3),
+    'Camp Commander': (0, 0),
+    'Camp Administrator': (-1, 1),
+    'Mayor of the local village': (-2, 2),
+    'Minister of Defense of Alpha': (-5, -1),
+    'Council of Omega Abroad': (8, 9),
+    'Local Press': (-4, -3),
+    'Local Church Activists': (4, 4),
+    'Leaders of the Militia': (-6, 0),
+    'Leaders of the local guards': (-3, -2),
+    'Refugee Leaders': (7, 3)
+}
+
+# Plot other parties
+colors = ['bo', 'go', 'co', 'mo', 'yo', 'ko', 'wo']
+for i, (label, (x, y)) in enumerate(stakeholders.items()):
+    ax.plot(x, y, colors[i % len(colors)], label=label)
+
+# Adding labels to the points
+for label, (x, y) in stakeholders.items():
+    ax.annotate(label, (x, y), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_map.png')
+plt.savefig(output_file_path)
+
+# Note: Replace 'gpt_responses/plots' with the appropriate directory where you'd like to save the plot.
+# The last line of the code above will generate a file named 'stakeholder_map.png' in the specified directory.
+```
+
+This script produces a stakeholder map visualization based on the provided case information, identifying the positions and relationships between FWB, the counter party (Camp Authorities), and other involved entities. Ensure you run this in a Python environment with matplotlib installed and adjust the file path to match your system's directory structure for saving the output plot.

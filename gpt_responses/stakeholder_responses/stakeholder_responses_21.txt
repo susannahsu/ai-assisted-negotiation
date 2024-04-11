@@ -1,0 +1,53 @@
+```
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map: FWB Assisting Refugees in Alpha')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counter party
+ax.plot(0, 0, 'ro', label='Camp Authorities')  # 'ro' for red circle, counterparty at origin
+
+# Stakeholders' positions
+positions = {
+    'FWB': (5, 7),
+    'UN Humanitarian Coordinator': (4, 9),
+    'MASHA': (3, 6),
+    'Health for All': (4, 5),
+    'German Government': (5, 8),
+    'Minister of Defense of Alpha': (-7, 3),
+    'Council of Omega Abroad': (6, 9),
+    'Local press': (-6, -5),
+    'Local church activists': (4, 1),
+    'Leaders of the local guards': (-8, -2),
+    'Refugee leaders': (8, -4),
+    'Mayor of the local village': (-3, -3),
+    'Leaders of the Militia': (-9, 0)
+}
+
+# Plot each stakeholder
+for stakeholder, (x, y) in positions.items():
+    plt.plot(x, y, 'o', label=stakeholder)
+
+# Adding labels to the points
+for stakeholder, (x, y) in positions.items():
+    ax.annotate(stakeholder, (x, y), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', 'fwbs_alpha_refugee_camp_negotiation.png')
+plt.savefig(output_file_path)
+plt.show()
+```
+This script plots a stakeholder map based on the roles and positions of various parties involved in the negotiation involving Food Without Borders (FWB) planning the distribution of food aid in a refugee camp in Country Alpha. Each stakeholder is positioned based on their inclination towards change (transformative to conservative on the X-axis) and their level of influence from local to global (Y-axis). The camp authorities, being the counterparty with interests most opposing those of FWB, are placed at the origin, marked in red. Other stakeholders are plotted according to the information provided, with attempts to represent their relative positions regarding their objectives and influence.

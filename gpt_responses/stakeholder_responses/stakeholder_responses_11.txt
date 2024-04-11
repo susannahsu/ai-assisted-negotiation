@@ -1,0 +1,46 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Define the stakeholders based on information given
+stakeholders = {
+    'FWB': {'x': 8, 'y': 7, 'label': 'FWB', 'color': 'g'},
+    'Camp Authorities': {'x': 0, 'y': 0, 'label': 'Camp Authorities', 'color': 'r'},
+    'UN Humanitarian Coordinator': {'x': 5, 'y': 8, 'label': 'UN Humanitarian Coordinator', 'color':'b'},
+    'MASHA': {'x': 4, 'y': 5, 'label': 'MASHA', 'color':'b'},
+    'Health for All': {'x': 3, 'y': 6, 'label': 'Health for All', 'color':'b'},
+    'German Government': {'x': 6, 'y': 4, 'label': 'German Government', 'color':'b'},
+    'Local Militia & Guards': {'x': 1, 'y': -5, 'label': 'Local Militia & Guards', 'color':'b'},
+    'Refugee Leaders': {'x': 7, 'y': 3, 'label': 'Refugee Leaders', 'color':'b'},
+    'Local Mayor': {'x': 2, 'y': -3, 'label': 'Local Mayor', 'color':'b'},
+    'Minister of Defense of Alpha': {'x': -8, 'y': 0, 'label': 'Minister of Defense', 'color':'b'},
+    'Council of Omega Abroad': {'x': 8, 'y': 2, 'label': 'Council of Omega Abroad', 'color':'b'},
+    'Local Press': {'x': -3, 'y': -4, 'label': 'Local Press', 'color':'b'},
+    'Local Church Activists': {'x': 4, 'y': -2, 'label': 'Local Church Activists', 'color':'b'}
+}
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map for FWB\'s Engagement in Alpha Refugee Camp')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counter party and other parties
+for stakeholder, details in stakeholders.items():
+    ax.plot(details['x'], details['y'], 'o', label=stakeholder, color=details['color'])
+    ax.text(details['x'], details['y'], details['label'], fontsize=9, ha='right')
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Save and show the plot
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_map_fwb_alpha.png')
+plt.savefig(output_file_path)
+plt.show()
+```

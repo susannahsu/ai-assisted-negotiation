@@ -1,0 +1,74 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map: FWB Assisting Refugees in Alpha')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counter party - Camp authorities at the origin as they are the primary counter to FWB's objectives
+ax.plot(0, 0, 'ro', label='Camp Authorities')  # 'ro' for red circle
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Plotting other stakeholders based on the information provided
+# Coordinates are chosen based on the negotiation leverage and their inclination towards change
+
+FWB_coords = (5, 7)  # FWB, pushing for transformative change and has global influence
+UN_Humanitarian_Coordinator_coords = (3, 8)  # UN Humanitarian Coordinator, significant global influence, supports change
+Health_for_All_coords = (4, 6)  # Health for All, aligned with FWB but slightly less in influence and transformative potential
+Local_church_activists_coords = (2, 5)  # Local church activists, support change, have more local influence
+Refugee_leaders_coords = (6, 4)  # Refugee leaders, actively seeking change, primarily local influence
+Local_guards_leaders_coords = (-3, 2)  # Leaders of the local guards, conservative, local influence
+Militia_leaders_coords = (-5, 1)  # Militia leaders, highly conservative, local influence
+Mayor_of_local_village_coords = (-2, 3)  # The Mayor, slightly conservative, more local influence
+Minister_of_Defense_of_Alpha_coords = (-4, 7)  # Minister of Defense, conservative, significant influence
+German_government_coords = (4, 9)  # German government, supportive of FWB, high global influence
+
+# Plotting points for each stakeholder
+ax.plot(*FWB_coords, 'go', label='FWB')
+ax.plot(*UN_Humanitarian_Coordinator_coords, 'bo', label='UN Humanitarian Coordinator')
+ax.plot(*Health_for_All_coords, 'bo', label='Health for All')
+ax.plot(*Local_church_activists_coords, 'bo', label='Local church activists')
+ax.plot(*Refugee_leaders_coords, 'bo', label='Refugee leaders')
+ax.plot(*Local_guards_leaders_coords, 'co', label='Local guards leaders')
+ax.plot(*Militia_leaders_coords, 'co', label='Militia leaders')
+ax.plot(*Mayor_of_local_village_coords, 'co', label='Mayor of local village')
+ax.plot(*Minister_of_Defense_of_Alpha_coords, 'mo', label='Minister of Defense of Alpha')
+ax.plot(*German_government_coords, 'bo', label='German government')
+
+# Adding labels to each point for clarity
+stakeholder_labels = [
+    ('Camp Authorities', (0,0)),
+    ('FWB', FWB_coords),
+    ('UN Humanitarian Coordinator', UN_Humanitarian_Coordinator_coords),
+    ('Health for All', Health_for_All_coords),
+    ('Local church activists', Local_church_activists_coords),
+    ('Refugee leaders', Refugee_leaders_coords),
+    ('Local guards leaders', Local_guards_leaders_coords),
+    ('Militia leaders', Militia_leaders_coords),
+    ('Mayor of local village', Mayor_of_local_village_coords),
+    ('Minister of Defense of Alpha', Minister_of_Defense_of_Alpha_coords),
+    ('German government', German_government_coords),
+]
+
+for label, (x, y) in stakeholder_labels:
+    ax.annotate(label, (x, y), textcoords="offset points", xytext=(0,10), ha='center')
+
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_map.png')
+plt.savefig(output_file_path)
+
+# Show the plot in a new window (commented out for script purposes, users can uncomment if running locally)
+# plt.show()
+```
+
+This script generates a stakeholder map for the case of "FWB Assisting Refugees in Alpha", positioning key stakeholders based on their negotiation stance and their global vs. local influence. You can adjust the coordinates and labels as needed based on further analysis or any updates in stakeholder dynamics. This map is instrumental in visualizing the negotiation landscape, aiding in strategic planning for navigating through complex stakeholder relationships.

@@ -1,0 +1,49 @@
+```
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map for Health for All Negotiation in Iguwafe')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counterparty
+ax.plot(0, 0, 'ro', label='Tribal Leaders')  # 'ro' for red circle, identified as the primary counterparty
+
+# Stakeholders Coordinates
+coordinates = {
+    'HfA Geneva': (8, 7),
+    'Tribal Leaders': (0, 0),  # already plotted as counterparty
+    'Local Hospital Staff': (-3, -1),
+    'Local Guards\' Families': (-4, -3),
+    'German Government': (7, 5),
+    'Swiss Government': (6, 5),
+    'Patient Association': (-2, -2),
+    'Local Government': (-1, 3),
+    'UN Humanitarian Coordinator': (2, 8),
+    'International Community': (4, 9),
+    'FWB': (1, 6),
+    'CPI': (-3, 4),
+    'Local Media': (-2, -1),
+    'Local Police Chief': (-1, 1),
+}
+
+# Plot other stakeholders
+for name, (x, y) in coordinates.items():
+    ax.plot(x, y, 'bo', label=name)  # 'bo' for blue circle
+    ax.annotate(name, (x, y), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_map_iguwafe.png')
+plt.savefig(output_file_path)
+```

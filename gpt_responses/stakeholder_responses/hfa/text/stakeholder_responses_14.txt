@@ -1,0 +1,71 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+fig, ax = plt.subplots()
+
+ax.set_title('Stakeholder Map')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plotting the counter party
+ax.plot(0, 0, 'ro', label='Tribal Leaders')  # 'ro' for red circle
+
+# Adjusting the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Example of plotting other parties
+# HfA
+x_HfA = -3
+y_HfA = 6
+ax.plot(x_HfA, y_HfA, 'go', label='HfA')  # 'go' for green circle
+
+# Government of Beta
+x_Govt = -4
+y_Govt = 2
+ax.plot(x_Govt, y_Govt, 'bo', label='Govt of Beta')  # 'bo' for blue circle
+
+# German and Swiss Donors
+x_Donors = 5
+y_Donors = 5
+ax.plot(x_Donors, y_Donors, 'bo', label='Donors')  # 'bo' for blue circle
+
+# UN Coordinator
+x_UN = -2
+y_UN = 8
+ax.plot(x_UN, y_UN, 'bo', label='UN Coordinator')  # 'bo' for blue circle
+
+# Local Hospital Staff
+x_Hospital = -6
+y_Hospital = -2
+ax.plot(x_Hospital, y_Hospital, 'bo', label='Local Hospital Staff')  # 'bo' for blue circle
+
+# Patients' Association
+x_Patients = -7
+y_Patients = -4
+ax.plot(x_Patients, y_Patients, 'bo', label='Patients\' Association')  # 'bo' for blue circle
+
+# Adding labels to the points
+stakeholders = {
+    'Tribal Leaders': (0, 0),
+    'HfA': (x_HfA, y_HfA),
+    'Govt of Beta': (x_Govt, y_Govt),
+    'Donors': (x_Donors, y_Donors),
+    'UN Coordinator': (x_UN, y_UN),
+    'Local Hospital Staff': (x_Hospital, y_Hospital),
+    'Patients\' Association': (x_Patients, y_Patients)
+}
+
+for label, (x, y) in stakeholders.items():
+    ax.annotate(label, (x, y), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_map.png')
+plt.savefig(output_file_path)
+```
+
+This script generates a stakeholder map for the situation involving the Health for All (HfA) staff detained by tribesmen in Iguwafe. The map visualizes various stakeholders such as the Tribal Leaders, Government of Beta, Donors (Germany and Switzerland), UN Coordinator, Local Hospital Staff, and Patients' Association, plotted based on their objectives (transformative to conservative) and identity (local to global influence). The counterparty, in this case, the Tribal Leaders, is placed at the origin and marked in red, with HfA represented by a green dot, indicating their primary interest in resolving the situation.

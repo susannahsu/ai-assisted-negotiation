@@ -1,0 +1,76 @@
+Based on the extensive documentation provided, let's develop a stakeholder map for the negotiation context surrounding the Health for All (HfA) situation in Iguwafe, Country Beta. This map will be instrumental in visualizing the negotiation landscape, consisting of the following key stakeholders:
+
+1. **Health for All (HfA)** - The protagonist organization facing a negotiation challenge.
+2. **Tribal Leaders** - The counterparty in this scenario, given their opposition to HfA's decisions and actions.
+3. **International Staff of HfA (detained)** - A party directly affected by the situation.
+4. **Local Hospital Staff and Patients** - Stakeholders negatively impacted by HfA's departure.
+5. **Local Government & Police** - Represent legal and governmental interests, with limited influence over tribesmen.
+6. **UN Humanitarian Coordinator** and **UN Security Coordinator** - Offering guidance and recommendations.
+7. **Food Without Borders (FWB)** - A sympathetic NGO facing similar challenges as HfA.
+8. **German and Swiss Ambassadors** - Donors pressing for a shift of resources to Ukraine.
+9. **Child Protection International (CPI)** - Advocates for continued health services in Iguwafe.
+10. **Local Guards and Their Families** - They seek compensation for their losses and services.
+11. **Patient Association of Iguwafe** - Highlight the urgent need for resumed medical services.
+
+This map will help in understanding the dynamics at play and assist in negotiating a resolution that ensures the safety of the detained staff and the continuity of healthcare services in Iguwafe.
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counterparty (Tribal Leaders)
+ax.plot(0, 0, 'ro', label='Tribal Leaders')  # 'ro' for red dots
+
+# Other stakeholders are positioned based on their objectives and influence
+coordinates = {
+    'HfA': (8, 9),
+    'International Staff [detained]': (5, 7),
+    'Local Hospital Staff & Patients': (-2, 6),
+    'Local Government & Police': (3, -3),
+    'UN Humanitarian & Security Coordinators': (6, 5),
+    'FWB': (4, 4),
+    'German and Swiss Ambassadors': (9, 8),
+    'CPI': (-5, 2),
+    'Local Guards & Families': (-4, -1),
+    'Patient Association of Iguwafe': (-6, 3)
+}
+
+colors = {
+    'HfA': 'g',  # Green for protagonist
+    'International Staff [detained]': 'c',  # Cyan for directly affected
+    'Local Hospital Staff & Patients': 'b',  # Blue for negatively impacted
+    'Local Government & Police': 'y',  # Yellow for limited influence
+    'UN Humanitarian & Security Coordinators': 'm', # Magenta for guidance/proposals
+    'FWB': 'k',  # Black for sympathetic NGOs
+    'German and Swiss Ambassadors': 'r',  # Red for pressing donors
+    'CPI': 'b',  # Blue for advocates
+    'Local Guards & Families': 'k',  # Black for compensation seeking
+    'Patient Association of Iguwafe': 'b' # Blue for urgent medical service need
+}
+
+# Adding labels and plotting points
+for k, v in coordinates.items():
+    ax.plot(v[0], v[1], f'{colors[k]}o', label=k)
+    ax.annotate(k, (v[0], v[1]), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_map.png')
+plt.savefig(output_file_path)
+```
+
+This script creates a visual representation of the negotiation context, crucial for analyzing stakeholder dynamics and planning negotiation paths. Each stakeholder is placed based on their inclination towards the negotiation objectives (transformative to conservative spectrum) and their level of influence (local to global). This map should be adapted and refined as the situation evolves and additional information becomes available.

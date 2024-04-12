@@ -1,0 +1,68 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counter party (Tribal Leaders at the origin)
+ax.plot(0, 0, 'ro', label='Tribal Leaders')  # 'ro' for red dot, representing the tribal leaders
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Stakeholders coordinates (based on analysis of the situation)
+# The positions are hypothetical and serve as an example
+
+# Health for All (HfA)
+x_hfa = -8
+y_hfa = 4
+ax.plot(x_hfa, y_hfa, 'go', label='HfA')  # 'go' for green dot
+
+# Government of Beta
+x_gov = -4
+y_gov = 5
+ax.plot(x_gov, y_gov, 'bo', label='Gov of Beta')  # 'bo' for blue circle
+
+# Local Hospital Staff
+x_hosp_staff = -6
+y_hosp_staff = 2
+ax.plot(x_hosp_staff, y_hosp_staff, 'yo', label='Local Hospital Staff')  # 'yo' for yellow dot
+
+# Patients' Association
+x_pat_assoc = -7
+y_pat_assoc = 3
+ax.plot(x_pat_assoc, y_pat_assoc, 'co', label='Patients\' Association')  # 'co' for cyan dot
+
+# UN Humanitarian Coordinator
+x_un = -2
+y_un = 7
+ax.plot(x_un, y_un, 'mo', label='UN Coordinator')  # 'mo' for magenta dot
+
+# International Donors (Germany and Switzerland)
+x_donors = 5
+y_donors = 7
+ax.plot(x_donors, y_donors, 'ko', label='International Donors')  # 'ko' for black dot
+
+# Labels for stakeholders
+stakeholders = ['Tribal Leaders', 'HfA', 'Gov of Beta', 'Local Hospital Staff', 'Patients\' Association', 'UN Coordinator', 'International Donors']
+coordinates = [(0,0), (x_hfa,y_hfa), (x_gov,y_gov), (x_hosp_staff,y_hosp_staff), (x_pat_assoc,y_pat_assoc), (x_un,y_un), (x_donors,y_donors)]
+
+for i, txt in enumerate(stakeholders):
+    ax.annotate(txt, coordinates[i], textcoords="offset points", xytext=(0,10), ha='center')
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_map.png')
+plt.savefig(output_file_path)
+plt.show()
+```
+This Python script generates a stakeholder map for the complex situation involving Health for All (HfA) and the varied stakeholders in Iguwafe. Each stakeholder is positioned based on their inclination towards change (x-axis) and their influence from local to global (y-axis). The script visualizes the negotiation landscape, facilitating a strategic approach to resolving the tension and ensuring the safe release of detained staff.

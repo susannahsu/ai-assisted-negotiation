@@ -2,8 +2,8 @@ import os
 import hashlib
 from preprocessing import preprocess_text, preprocess_text_for_bert
 
-original_dir = '../gpt_responses/iceberg_css_responses/hfa'
-preprocessed_dir = '../preprocessed_responses/iceberg_css_preprocessed_BERT_responses/hfa'
+original_dir = '../practitioner_responses/ioa'
+preprocessed_dir = '../preprocessed_responses/iceberg_css_preprocessed_BERT_practitioner_resp'
 
 if not os.path.exists(preprocessed_dir):
     os.makedirs(preprocessed_dir)

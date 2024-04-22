@@ -1,0 +1,72 @@
+Given the complexity of the situation involving the international health organization Health for All (HfA) and its captivated staff in Iguwafe, we can extract key stakeholders and their roles from the provided narrative to create a stakeholder map. This map will help in visualizing the negotiation landscape to strategize effectively.
+
+**Stakeholders Identified:**
+1. Health for All (HfA) - Primary Party
+2. Tribesmen/Tribal Leaders - Counterparty
+3. Local Hospital Staff and Patients
+4. The Local and National Government of Beta
+5. German and Swiss Donors
+6. UN Humanitarian Coordinator and Security Coordinator
+7. Food Without Borders (FWB)
+8. Child Protection International (CPI)
+9. Local Guards and their Families
+10. International Community and Donor Organizations
+11. Local Media
+
+The main negotiation points revolve around ensuring the safe release and security of HfA staff, continuity of medical services in Iguwafe, compensation for local guards, and addressing the measles outbreak.
+
+**Creation of the Stakeholder Map:** The positions of stakeholders will be determined based on their inclination towards change (i.e., maintaining HfA's presence in Iguwafe vs. redeploying resources to Ukraine) and their influence (local vs. global).
+
+- **HfA (Health for All)** is the protagonist with a shifting position due to donor pressure, but initially inclined towards transformative change (due to its mission adaptation and potential redirection of resources) with global influence.
+- **Tribal Leaders/Tribesmen**, as the counterparty, are positioned at the origin (0,0), emphasizing their opposition to HfA's departure and crucial influence on the local scale.
+- **Local Hospital Staff and Patients** lean towards transformative change, desiring HfA's continuous presence for medical care, with strong local influence.
+- **The Local and National Government of Beta** exhibit conservative tendencies preferring HfA's stay but with limited local influence.
+- **German and Swiss Donors** show conservative inclinations towards the status quo regarding HfA’s mission but have a global influence.
+- **UN Bodies** are inclined towards transformative action, advocating for dialogue and safety, with significant global influence.
+- **Food Without Borders (FWB)** shares a similar position to HfA but focuses on food security, representing another global influence with an inclination towards transformative change.
+
+**Python Script for Stakeholder Map:**
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counterparty
+ax.plot(0, 0, 'ro', label='Tribal Leaders')  # 'ro' for red circle
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Plotting other stakeholders
+coordinates = {
+    'HfA': (3, 7),
+    'Local Hospital Staff': (5, 5),
+    'Beta Government': (-2, 2),
+    'Donors': (-5, 8),
+    'UN': (4, 9),
+    'FWB': (3, 7),
+    'CPI': (6, 5)
+}
+for party, (x, y) in coordinates.items():
+    ax.plot(x, y, 'bo')  # 'bo' for blue circle
+
+# Adding labels to the points
+for party, (x, y) in coordinates.items():
+    ax.annotate(party, (x, y), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_map.png')
+plt.savefig(output_file_path)
+```
+This script positions the primary stakeholders on the negotiation canvas based on their alignment with change and their influence level. The Tribal Leaders, being at the core of the negotiation conflict, are placed at the origin, reflecting their pivotal role in resolving the dispute and releasing the HfA staff.

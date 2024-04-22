@@ -1,0 +1,54 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counter party
+ax.plot(0, 0, 'ro', label='Camp Authorities')  # 'ro' for red circle
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Define positions for various stakeholders based on their inclination and influence
+positions = {
+    'FWB': (3, 7),
+    'UN Humanitarian Coordinator': (2, 9),
+    'Health for All': (1, 6),
+    'MASHA': (2, 4),
+    'Refugee Leaders': (4, 5),
+    'Local Church Activists': (5, 4),
+    'The Mayor': (-3, 3),
+    'Minister of Defense of Alpha': (-5, 7),
+    'Council of Omega Abroad': (6, 8),
+    'Militia Leaders': (-6, 2),
+    'Local Guards Leaders': (-4, 1),
+    'Local Press': (-2, -3)
+}
+
+# Plot positions of other stakeholders
+for stakeholder, (x, y) in positions.items():
+    if stakeholder == 'FWB':
+        ax.plot(x, y, 'go', label=stakeholder)  # 'go' for green circle
+    else:
+        ax.plot(x, y, 'bo', label=stakeholder)  # 'bo' for blue circle
+
+# Adding labels to the points
+for stakeholder, (x, y) in positions.items():
+    ax.annotate(stakeholder, (x, y), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', f'plot.png')
+plt.savefig(output_file_path)
+```
+This script generates a stakeholder map for the negotiation context involving FWB and camp authorities. It visualizes the positions of various stakeholders based on their inclination towards change (transformative to conservative) and their scale of influence (local to global). Additional stakeholders such as UN Humanitarian Coordinator, Health for All, MASHA, and others have been plotted based on the extracted details from the documents provided. The camp authorities, being the counterparty, are centrally placed at the origin in red, symbolizing their pivotal role in the negotiations. Ensure to adjust stakeholders' positions as per the negotiation's evolving dynamics and feedback for accuracy.

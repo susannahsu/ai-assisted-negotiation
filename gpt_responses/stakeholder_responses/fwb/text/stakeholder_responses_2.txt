@@ -1,0 +1,66 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counter party
+ax.plot(0, 0, 'ro', label='Camp Authorities')  # 'ro' for red circle, counter party
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Example of plotting other parties
+# FWB - User party
+x_fwb = 8  # FWB aims for transformative change but has to operate within constraints, hence not fully left
+y_fwb = 7  # Global influence due to international presence
+ax.plot(x_fwb, y_fwb, 'go', label='FWB')  # 'go' for green circle
+
+# UN Humanitarian Coordinator
+x_un = 5
+y_un = 9  # High global influence, aligned with FWB but slightly more towards the center
+ax.plot(x_un, y_un, 'bo', label='UN Humanitarian Coordinator')
+
+# Local Militia
+x_militia = -5
+y_militia = 0  # Local influence, opposing the objectives of FWB
+ax.plot(x_militia, y_militia, 'yo', label='Local Militia')
+
+# Refugee Leaders
+x_refugee_leaders = 7
+y_refugee_leaders = -2  # Local influence but striving for change aligned with FWB
+ax.plot(x_refugee_leaders, y_refugee_leaders, 'mo', label='Refugee Leaders')
+
+# German Government
+x_german_gov = 4
+y_german_gov = 6  # Supporting FWB, global player, but cautious/conservative in approach
+ax.plot(x_german_gov, y_german_gov, 'co', label='German Government')
+
+# Health for All NGO
+x_health_all = 6
+y_health_all = 2  # Local to semi-global influence, aligns with FWB but operationally pragmatic
+ax.plot(x_health_all, y_health_all, 'ko', label='Health for All')
+
+# Adding labels to the points
+stakeholders = ['Camp Authorities', 'FWB', 'UN Humanitarian Coordinator', 'Local Militia', 'Refugee Leaders', 'German Government', 'Health for All']
+x_coords = [0, x_fwb, x_un, x_militia, x_refugee_leaders, x_german_gov, x_health_all]
+y_coords = [0, y_fwb, y_un, y_militia, y_refugee_leaders, y_german_gov, y_health_all]
+
+for i, txt in enumerate(stakeholders):
+    ax.annotate(txt, (x_coords[i], y_coords[i]), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', 'plot_stakeholder_map.png')
+plt.savefig(output_file_path)
+```
+This script creates a stakeholder map based on the complex negotiation scenario involving FWB's effort to distribute food to refugees while navigating challenges posed by local authorities, militias, and international stakeholders. Each party is plotted according to their orientation towards change and their local to global influence, clarifying the negotiation landscape FWB is operating within.

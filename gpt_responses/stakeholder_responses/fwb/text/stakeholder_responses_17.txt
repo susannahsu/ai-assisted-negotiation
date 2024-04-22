@@ -1,0 +1,75 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counter party
+ax.plot(0, 0, 'ro', label='Camp Authorities')  # 'ro' for red circle
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Plotting stakeholders
+# FWB (Food Without Borders)
+x_FWB = -3  # FWB pushing for change through aid distribution, thus more transformative
+y_FWB = 7  # High global influence due to international presence
+ax.plot(x_FWB, y_FWB, 'go', label='FWB')  # 'go' for green circle
+
+# UN Humanitarian Coordinator
+x_UN = -2  
+y_UN = 8  # High global influence, slightly conservative due to pressuring for coordination not direct action
+ax.plot(x_UN, y_UN, 'bo', label='UN Humanitarian Coordinator')  
+
+# Health for All
+x_Health = -4  
+y_Health = 4  # Local to global influence, working pragmatically within constraints, thus more toward transformative
+ax.plot(x_Health, y_Health, 'bo', label='Health for All')  
+
+# Local Church Activists
+x_Church = -6  
+y_Church = 2  # Local influence, very transformative due to activism
+ax.plot(x_Church, y_Church, 'bo', label='Local Church Activists')  
+
+# The Mayor
+x_Mayor = 2  
+y_Mayor = 2  # Local influence, conservative, supports existing power structures
+ax.plot(x_Mayor, y_Mayor, 'bo', label='The Mayor')  
+
+# Minister of Defense of Alpha
+x_Minister = 8  
+y_Minister = 6  # High local influence, very conservative
+ax.plot(x_Minister, y_Minister, 'bo', label='Minister of Defense of Alpha')  
+
+# Militia Leaders
+x_Militia = 7  
+y_Militia = -3  # Negative because they oppose the refugees’ welfare, conservative as they maintain status quo
+ax.plot(x_Militia, y_Militia, 'bo', label='Militia Leaders')  
+
+# Refugee Leaders
+x_Refugee = -7  
+y_Refugee = 5  # Positive global concern, transformative as they seek change in their condition
+ax.plot(x_Refugee, y_Refugee, 'bo', label='Refugee Leaders')  
+
+# Adding labels to the points
+labels = ['Camp Authorities', 'FWB', 'UN Humanitarian Coordinator', 'Health for All', 'Local Church Activists', 'The Mayor', 'Minister of Defense of Alpha', 'Militia Leaders', 'Refugee Leaders']
+positions = [(0, 0), (x_FWB, y_FWB), (x_UN, y_UN), (x_Health, y_Health), (x_Church, y_Church), (x_Mayor, y_Mayor), (x_Minister, y_Minister), (x_Militia, y_Militia), (x_Refugee, y_Refugee)]
+
+for i, txt in enumerate(labels):
+    ax.annotate(txt, positions[i], textcoords="offset points", xytext=(0,10), ha='center')
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_map.png')
+plt.savefig(output_file_path)
+```
+This Python script represents the stakeholder map for the situation involving Food Without Borders (FWB) and its planned food aid distribution in a refugee camp, detailing the negotiation landscape with local camp authorities and other entities. Each stakeholder's position on the map considers their inclination towards change (transformative to conservative) and their influence (local to global). Such visualization assists in identifying potential allies and opponents in negotiation, enabling FWB to formulate a more effective strategy.

@@ -1,0 +1,66 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counterparty - Camp Authorities
+ax.plot(0, 0, 'ro', label='Camp Authorities')  # 'ro' for red circle
+
+# FWB (Food Without Borders) - protagonist
+fwb_x, fwb_y = 3, 7  # Assuming FWB has a transformative aim but a global influence
+ax.plot(fwb_x, fwb_y, 'go', label='FWB')  # 'go' for green circle
+
+# Adding labels for each stakeholder
+ax.text(0, 0, 'Camp Authorities', horizontalalignment='right', verticalalignment='bottom')
+ax.text(fwb_x, fwb_y, 'FWB', horizontalalignment='right', verticalalignment='bottom')
+
+# Other stakeholders based on the given information
+# The UN Humanitarian Coordinator
+un_x, un_y = 2, 9
+ax.plot(un_x, un_y, 'bo', label='UN Humanitarian Coordinator')
+ax.text(un_x, un_y, 'UN Humanitarian Coordinator', horizontalalignment='left', verticalalignment='bottom')
+
+# The German Government
+german_gov_x, german_gov_y = 1, 7
+ax.plot(german_gov_x, german_gov_y, 'bo', label='German Government')
+ax.text(german_gov_x, german_gov_y, 'German Gov.', horizontalalignment='right', verticalalignment='top')
+
+# Health for All NGO
+health_ngo_x, health_ngo_y = 2, 6
+ax.plot(health_ngo_x, health_ngo_y, 'bo', label='Health for All')
+ax.text(health_ngo_x, health_ngo_y, 'Health for All', horizontalalignment='left', verticalalignment='top')
+
+# Local Militia
+militia_x, militia_y = -6, 1
+ax.plot(militia_x, militia_y, 'bo', label='Local Militia')
+ax.text(militia_x, militia_y, 'Local Militia', horizontalalignment='left', verticalalignment='top')
+
+# The Mayor of the local village
+mayor_x, mayor_y = -2, 3
+ax.plot(mayor_x, mayor_y, 'bo', label='Local Mayor')
+ax.text(mayor_x, mayor_y, 'Local Mayor', horizontalalignment='left', verticalalignment='bottom')
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Save the plot
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_map_example.png')
+plt.savefig(output_file_path)
+
+# Show the plot as an example (commented out for script functionality)
+# plt.show()
+```
+This Python script generates a stakeholder map based on your provided information. It positions the key parties involved in the negotiation with FWB's work within the refugee camps. Each party's position on this map was determined by their inclination towards change (x-axis) and their level of influence from local to global (y-axis). The counterparty, in this case, the Camp Authorities, is placed at the origin point (0,0) and marked in red to denote their central role in negotiations. The protagonist, FWB, is plotted with a green dot, indicating their position and perspective relative to the counterparty. Additional stakeholders are included to represent their varied stances and influences in this complex negotiation landscape.
+
+Remember, this visualization serves as a starting point. Stakeholder positions can be adjusted based on further analysis or evolving circumstances within the negotiation context.

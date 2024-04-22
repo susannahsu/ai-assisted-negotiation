@@ -1,0 +1,82 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Define positions for each stakeholder
+# FWB position: inclined towards transformative change and global influence
+x_fwb = -8  # FWB is aiming for significant change in their operations
+y_fwb = 8  # FWB has a global influence
+# Camp Authorities position: at the origin, indicating a conservative approach and local influence
+x_camp_authorities = 0
+y_camp_authorities = 0
+# Other stakeholders
+x_refugee_leaders = -6
+y_refugee_leaders = 5
+x_german_government = -7
+y_german_government = 7
+x_local_militia = 1
+y_local_militia = -1
+x_health_for_all = -4
+y_health_for_all = 4
+x_local_church_activities = -5
+y_local_church_activities = 3
+x_camp_commander = 0
+y_camp_commander = -1  # Close to camp authorities, slightly towards a transformative approach
+x_un_humanitarian = -8
+y_un_humanitarian = 6
+x_local_press = 4
+y_local_press = -3
+x_minister_of_defense_alpha = 5
+y_minister_of_defense_alpha = -4
+x_mayor_local_village = 3
+y_mayor_local_village = -2
+x_council_omega_abroad = -7
+y_council_omega_abroad = 6
+
+# Plot stakeholders
+stakeholders = {
+    'FWB': (x_fwb, y_fwb),
+    'Refugee Leaders': (x_refugee_leaders, y_refugee_leaders),
+    'German Government': (x_german_government, y_german_government),
+    'Local Militia': (x_local_militia, y_local_militia),
+    'Health for All': (x_health_for_all, y_health_for_all),
+    'Local Church Activities': (x_local_church_activities, y_local_church_activities),
+    'Camp Commander': (x_camp_commander, y_camp_commander),
+    'UN Humanitarian': (x_un_humanitarian, y_un_humanitarian),
+    'Local Press': (x_local_press, y_local_press),
+    'Minister of Defense Alpha': (x_minister_of_defense_alpha, y_minister_of_defense_alpha),
+    'Mayor Local Village': (x_mayor_local_village, y_mayor_local_village),
+    'Council Omega Abroad': (x_council_omega_abroad, y_council_omega_abroad)
+}
+
+# Plotting the counter party (Camp Authorities)
+ax.plot(x_camp_authorities, y_camp_authorities, 'ro', markersize=10, label='Camp Authorities')  # Red for counterparty
+
+# Plotting the protagonist (FWB)
+ax.plot(x_fwb, y_fwb, 'go', markersize=10, label='FWB')  # Green for protagonist
+
+# Plotting other stakeholders
+for label, (x, y) in stakeholders.items():
+    ax.plot(x, y, 'bo')  # Blue for other stakeholders
+    ax.text(x, y, label, fontsize=9, ha='right')
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', f'stakeholder_map.png')
+plt.savefig(output_file_path)
+plt.show()
+```

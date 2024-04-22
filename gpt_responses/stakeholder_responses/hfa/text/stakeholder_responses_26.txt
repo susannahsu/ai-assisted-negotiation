@@ -1,0 +1,60 @@
+Given the detailed scenario involving Health for All (HfA) and the various stakeholders in the setting of Country Beta, particularly the Iguwafe district, we will proceed to visualize the stakeholder map. This visualization will aim to identify the positions and influences of each stakeholder in relation to HfA's negotiation challenge—securing the safe release of their detained staff while addressing the broader healthcare needs of the region.
+
+In this context:
+
+- **HfA (Health for All)** will be portrayed as the protagonist in this negotiation, facing critical decisions impacting both their staff's immediate safety and the organization's operational future in Iguwafe.
+- **Local armed tribesmen** (imposing house arrest on HfA international staff) represent the counterparty due to their direct opposition to HfA's operational decisions and immediate actions impacting HfA staff.
+
+This plotted map will consider stakeholders' inclination towards transformative change (in terms of healthcare service continuation and negotiation flexibility) and their influence ranging from local to global spheres.
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counterparty (Local armed tribesmen)
+ax.plot(0, 0, 'ro', label='Local Armed Tribesmen')  # 'ro' for red circle
+
+# Stakeholders and their coordinates
+stakeholders = {
+    'HfA': (3, 7),
+    'Tribal Leaders': (2, 5),
+    'Local Hospital Staff': (4, 3),
+    'Government of Beta': (5, 2),
+    'Local Guards': (1, 4),
+    'German Government': (7, 8),
+    'Swiss Government': (7, 9),
+    'UN Agencies': (6, 6),
+    'Patient Association': (3, 2),
+    'Food Without Borders': (4, 6),
+    'Child Protection International': (5, 4)
+}
+
+# Plot each stakeholder
+for stakeholder, coords in stakeholders.items():
+    ax.plot(coords[0], coords[1], 'bo')  # 'bo' for blue circle
+    ax.annotate(stakeholder, coords, textcoords="offset points", xytext=(0,10), ha='center')
+
+# Adding labels to the counter party point
+ax.annotate('Local Armed Tribesmen', (0, 0), textcoords="offset points", xytext=(0,-15), ha='center', color='red')
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_map.png')
+plt.savefig(output_file_path)
+```
+
+This map aims to guide the HfA delegation in identifying potential allies, understanding adversaries' positions, and strategizing on the formation of negotiation paths. Consideration of each stakeholder's position provides insight into their potential leverage and influence which could be critical in resolving the current predicament and ensuring the safety and continuation of healthcare services in Iguwafe.

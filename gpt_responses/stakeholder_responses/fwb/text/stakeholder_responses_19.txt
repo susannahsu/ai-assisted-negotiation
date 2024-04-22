@@ -1,0 +1,52 @@
+```
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counter party
+ax.plot(0, 0, 'ro', label='Camp Authorities')  # 'ro' for red circle
+
+# Stakeholders coordinates and labels
+stakeholders = {
+    'FWB': (6, 8),
+    'UN Humanitarian Coordinator': (5, 5),
+    'Local Church Activists': (3, 6),
+    'Health for All': (4, 3),
+    'MASHA (Local NGO)': (5, 6),
+    'German Government': (6, 4),
+    'Minister of Defense of Alpha': (-8, 1),
+    'Council of Omega Abroad': (8, 9),
+    'Local Press': (-6, -2),
+    'Mayor of Local Village': (-4, -3),
+    'Militia Leaders': (-7, 3),
+    'Local Guards Leaders': (-7, -1),
+    'Refugee Leaders': (7, 7)
+}
+
+# Plot each stakeholder
+for name, (x, y) in stakeholders.items():
+    if name == 'FWB': # FWB as protagonist with a green dot
+        ax.plot(x, y, 'go', label=name)
+    else:
+        ax.plot(x, y, 'bo', label=name) # Others with blue dots
+    
+    ax.annotate(name, (x, y), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_map.png')
+plt.savefig(output_file_path)
+```

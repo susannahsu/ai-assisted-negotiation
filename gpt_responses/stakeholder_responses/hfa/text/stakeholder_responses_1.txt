@@ -1,0 +1,86 @@
+Given the complexity of the situation involving Health for All (HfA) in Iguwafe, a stakeholder map is crucial for navigating the negotiation landscape effectively. The situation hinges on multiple stakeholders, including HfA, tribal leaders, local hospital staff, international donors, and government entities. To visually articulate the dynamics, a stakeholder map plotting the inclination towards change and influence level will be developed.
+
+In this context:
+
+- **HfA** will be considered the protagonist, given their central role in the ongoing negotiations for the safe release of their staff and the future of their operations in Iguwafe.
+- The **tribal leaders**, opposing HfA’s decision to relocate resources to Ukraine and demanding continuation of medical services, are identified as the counterparty.
+
+Other stakeholders include:
+- **Local hospital staff**
+- **International donors (Germany and Switzerland)**
+- **Government of Country Beta**
+- **UN agencies**
+- **Local police and army**
+- **Local guards and their families**
+- **Patient Association of Iguwafe**
+- **The head surgeon of HfA**
+- **Food Without Borders (FWB)**
+- **Child Protection International (CPI)**
+
+Let us proceed to create the stakeholder map, marking the counterparty at the origin and situating other stakeholders based on their stance on change (transformative to conservative) and their influence (local to global).
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counterparty (Tribal Leaders)
+ax.plot(0, 0, 'ro', label='Tribal Leaders')  # 'ro' for red circle
+
+# Mapping other stakeholders
+stakeholders = {
+    'HfA': (5, 5),
+    'Local Hospital Staff': (3, 2),
+    'Government of Country Beta': (-3, 7),
+    'UN Agencies': (-5, 8),
+    'Local Police and Army': (2, 1),
+    'International Donors': (-7, 9),
+    'Local Guards and Families': (4, 3),
+    'Patient Association of Iguwafe': (3, -2),
+    'Head Surgeon of HfA': (6, 1),
+    'Food Without Borders (FWB)': (-4, 5),
+    'Child Protection International (CPI)': (-6, 6),
+}
+
+colors = {
+    'HfA': 'g',
+    'Local Hospital Staff': 'b',
+    'Government of Country Beta': 'b',
+    'UN Agencies': 'b',
+    'Local Police and Army': 'b',
+    'International Donors': 'b',
+    'Local Guards and Families': 'b',
+    'Patient Association of Iguwafe': 'b',
+    'Head Surgeon of HfA': 'b',
+    'Food Without Borders (FWB)': 'b',
+    'Child Protection International (CPI)': 'b',
+}
+
+for stakeholder, position in stakeholders.items():
+    ax.plot(position[0], position[1], 'o', color=colors[stakeholder], label=stakeholder)
+
+# Adding labels to the points
+for stakeholder, position in stakeholders.items():
+    ax.annotate(stakeholder, position, textcoords="offset points", xytext=(0,10), ha='center')
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_map.png')
+plt.savefig(output_file_path)
+plt.show()
+```
+
+This script maps the negotiation's stakeholders onto a standardized plot. The counterparty (tribal leaders) is at the origin, signifying their central opposition role. HfA is plotted with a green dot, indicating their protagonist status in the situation. The map helps visualize the negotiation landscape, demonstrating the varying degrees of inclination towards change and levels of influence among the stakeholders involved.

@@ -1,0 +1,50 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Identify stakeholders based on the document
+stakeholders = {
+    "Tribal Leaders": {"x": -5, "y": 5, "label": "Tribal Leaders"},
+    "HfA": {"x": 5, "y": 5, "label": "HfA (Protagonist)"},
+    "Government of Beta": {"x": -3, "y": 2, "label": "Government of Beta"},
+    "Local Hospital Staff": {"x": -4, "y": 3, "label": "Local Hospital Staff"},
+    "German Government": {"x": 7, "y": 1, "label": "German Government"},
+    "Swiss Government": {"x": 8, "y": 0, "label": "Swiss Government"},
+    "Local Community": {"x": -6, "y": 4, "label": "Local Community"},
+    "UN": {"x": 2, "y": 7, "label": "UN"},
+    "FWB": {"x": -1, "y": 6, "label": "FWB"},
+    "CPI": {"x": -2, "y": 6, "label": "CPI"}
+}
+
+# Plot counter party
+ax.plot(0, 0, 'ro', label='Tribal Leaders (Counterparty)')  # 'ro' for red circle
+
+# Plot stakeholders
+for key, val in stakeholders.items():
+    ax.plot(val["x"], val["y"], 'o', label=key)  # Plotting other stakeholders
+
+# Adding labels to the points
+for key, val in stakeholders.items():
+    ax.annotate(val["label"], (val["x"], val["y"]), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Show the plot 
+# (Note for execution environment: if the output file path management is necessary, please define the appropriate directory)
+output_file_path = 'plot_stakeholder_map.png'
+plt.savefig(output_file_path)
+plt.show()
+```

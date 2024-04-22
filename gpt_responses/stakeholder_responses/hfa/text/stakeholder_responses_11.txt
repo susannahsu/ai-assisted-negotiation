@@ -1,0 +1,80 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map - HfA Crisis in Iguwafe')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counter party (Tribal Leaders, identified as most opposing HfA's objectives)
+ax.plot(0, 0, 'ro', label='Tribal Leaders')  # 'ro' for red circle
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Plotting other parties
+# Coordinates will be determined based on their stated positions and actions in the text
+
+# HfA (Primary Party)
+x_HfA = 5
+y_HfA = 8
+ax.plot(x_HfA, y_HfA, 'go', label='Health for All (HfA)')
+
+# Local Government
+x_local_gov = 2
+y_local_gov = 6
+ax.plot(x_local_gov, y_local_gov, 'bo', label='Local Government')
+
+# UN Agencies
+x_UN = 4
+y_UN = 7
+ax.plot(x_UN, y_UN, 'co', label='UN Agencies')
+
+# German & Swiss Donors
+x_donors = 8
+y_donors = 6
+ax.plot(x_donors, y_donors, 'mo', label='German & Swiss Donors')
+
+# Local Hospital Staff
+x_hospital_staff = -2
+y_hospital_staff = 4
+ax.plot(x_hospital_staff, y_hospital_staff, 'yo', label='Local Hospital Staff')
+
+# Patients & Families
+x_patients = -4
+y_patients = 3
+ax.plot(x_patients, y_patients, 'ko', label='Patients & Families')
+
+# Local Police & Government Officials
+x_police_gov = 2
+y_police_gov = 1
+ax.plot(x_police_gov, y_police_gov, 'bo', label='Local Police/Government Officials')
+
+# NGOs and International Organizations
+x_NGOs = 6
+y_NGOs = 5
+ax.plot(x_NGOs, y_NGOs, 'co', label='Other NGOs')
+
+# Adding labels to the points
+stakeholder_labels = ['Tribal Leaders', 'Health for All (HfA)', 'Local Government', 'UN Agencies',
+                      'German & Swiss Donors', 'Local Hospital Staff', 'Patients & Families', 
+                      'Local Police/Government Officials', 'Other NGOs']
+coords = [(0,0), (x_HfA, y_HfA), (x_local_gov, y_local_gov), (x_UN, y_UN), (x_donors, y_donors),
+          (x_hospital_staff, y_hospital_staff), (x_patients, y_patients), (x_police_gov, y_police_gov),
+          (x_NGOs, y_NGOs)]
+for i, txt in enumerate(stakeholder_labels):
+    ax.annotate(txt, coords[i], textcoords="offset points", xytext=(0,10), ha='center')
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', 'plot_hfa_crisis_iguwafe.png')
+plt.savefig(output_file_path)
+plt.show()
+```

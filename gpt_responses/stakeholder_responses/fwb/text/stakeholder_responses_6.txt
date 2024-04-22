@@ -1,0 +1,64 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map: FWB Assisting Refugees in Alpha')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plot the counter party at the origin
+ax.plot(0, 0, 'ro', label='Camp Authorities')  # 'ro' for red circle, representing the counter party
+
+# Coordinates for other stakeholders
+coordinates = {
+    'FWB': (5, 7),
+    'UN Humanitarian Coordinator': (3, 9),
+    'MASHA': (4, 6),
+    'Health for All': (2, 5),
+    'German Government': (6, 8),
+    'Camp Commander': (0, 0),
+    'Camp Administration': (-1, -2),
+    'Local Militia': (-3, -3),
+    'Mayor of the local village': (-2, 1),
+    'Minister of Defense of Alpha': (-4, 4),
+    'Council of Omega Abroad': (7, 9),
+    'Local press': (-5, 2),
+    'Local church activists': (6, 3),
+    'Militia leaders': (-6, -1),
+    'Leaders of the local guards': (-4, -2),
+    'Refugee leaders': (8, 5)
+}
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Plotting all stakeholders
+for stakeholder, (x, y) in coordinates.items():
+    if stakeholder == 'FWB':
+        ax.plot(x, y, 'go')  # 'go' for green circle, representing the user party
+    else:
+        ax.plot(x, y, 'bo')  # 'bo' for blue circle, representing other stakeholders
+    ax.annotate(stakeholder, (x, y), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_map.png')
+plt.savefig(output_file_path)
+```
+
+This script generates a stakeholder map that visualizes the political and social dynamics surrounding FWB's mission to provide food aid within refugee camps in Country Alpha. Each stakeholder's position is plotted according to their general attitude towards FWB's negotiation objectives and their influence or interest in the operative context from local to global. 
+
+- **FWB** is shown with a high inclination towards transformative objectives and considerable global influence, marked by a green dot.
+- **Camp Authorities** are at the origin, marked red, indicating their role as the counterparty.
+- Other stakeholders, like the **UN Humanitarian Coordinator, MASHA, and Health for All**, show supportive tendencies towards FWB's mission but vary in their influence and objectives.
+- **Local militia, camp administration,** and **leaders of the local guards** reflect resistance to FWB's agenda, placed in the negative spectrum, showing their conservative and obstructive stance.
+- **Refugee leaders** represent the beneficiary party with strong support for FWB's transformative objectives but localized influence.
+
+This visualization serves as a starting point for discussing and identifying negotiation paths, potential allies, and strategies to mitigate opposition.

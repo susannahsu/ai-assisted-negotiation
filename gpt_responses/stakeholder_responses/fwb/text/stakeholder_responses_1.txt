@@ -1,0 +1,74 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map for FWB Negotiations with Camp Authorities')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Counter Party: Camp Authorities (at the origin)
+ax.plot(0, 0, 'ro', label='Camp Authorities')  # Camp Authorities in red at the origin
+
+# User Party: FWB
+x_fwb = -7  # FWB aiming for transformative change
+y_fwb = 8  # FWB with global influence
+ax.plot(x_fwb, y_fwb, 'go', label='FWB')  # FWB in green
+
+# Adding labels to the points
+ax.annotate('Camp Authorities', (0, 0), textcoords="offset points", xytext=(0,10), ha='center')
+ax.annotate('FWB', (x_fwb, y_fwb), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Other stakeholders plotted based on the details provided
+# UN Humanitarian Coordinator
+x_un = -5
+y_un = 7
+ax.plot(x_un, y_un, 'bo', label='UN Humanitarian Coordinator')  # Blue for UN
+ax.annotate('UN Humanitarian Coordinator', (x_un, y_un), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Local NGO: MASHA
+x_masha = -6
+y_masha = 3
+ax.plot(x_masha, y_masha, 'bo', label='MASHA')
+ax.annotate('MASHA', (x_masha, y_masha), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Local Guards and Militia
+x_militia = 4
+y_militia = -1
+ax.plot(x_militia, y_militia, 'mo', label='Local Guards/Militia')  # Purple for militia
+ax.annotate('Local Guards/Militia', (x_militia, y_militia), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Health for All NGO
+x_health = -4
+y_health = 4
+ax.plot(x_health, y_health, 'co', label='Health for All')  # Cyan for Health for All
+ax.annotate('Health for All', (x_health, y_health), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Refugee Leaders
+x_refugee_leaders = -8
+y_refugee_leaders = 2
+ax.plot(x_refugee_leaders, y_refugee_leaders, 'yo', label='Refugee Leaders')  # Yellow for Refugee Leaders
+ax.annotate('Refugee Leaders', (x_refugee_leaders, y_refugee_leaders), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Local Government and Authorities
+x_gov = 2
+y_gov = -3
+ax.plot(x_gov, y_gov, 'ko', label='Local Government')  # Black for Government
+ax.annotate('Local Government', (x_gov, y_gov), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', 'stakeholder_map_fwb_case.png')
+plt.savefig(output_file_path)
+plt.show()
+```
+This script generates a stakeholder map based on the detailed background information provided, representing the diverse group of parties involved in and their positions relative to the primary negotiation between FWB and the camp authorities. Please adjust the positions of the stakeholders as per real-world dynamics and the negotiation's context for accuracy.

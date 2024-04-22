@@ -1,5 +1,5 @@
 # ai-assited-negotiation
-This repo is for testing the Spring 2024 AC297r Capstone Project 1: AI-assisted negotiation tool. The Project is presented in conjunction with Harvard's School of Engineering and Applied Sciences and Frontline Negotiations. 
+This repo is for testing the Spring 2024 AC297r Capstone Project 1: AI-assisted negotiation tool. The Project is presented in conjunction with Harvard's School of Engineering and Applied Sciences and Frontline Associates. 
 
 Before you start, please make sure that you have all the dependencies set up properly. You can run 
 ```

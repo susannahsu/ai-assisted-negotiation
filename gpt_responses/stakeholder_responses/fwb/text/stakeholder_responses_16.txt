@@ -1,0 +1,81 @@
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map: FWB Negotiations with Camp Authorities')
+ax.set_xlabel('Objective of Negotiation (Transformative to Conservative)')
+ax.set_ylabel('Identity of Stakeholders (Local to Global Influence)')
+
+# Plotting the counterparty
+ax.plot(0, 0, 'ro', label='Camp Authorities')  # Camp authorities as counterparty
+
+# Stakeholder positions
+# FWB's position, inclined towards transformative with global influence
+x_FWB = -8
+y_FWB = 8
+ax.plot(x_FWB, y_FWB, 'go', label='FWB')  # FWB in green
+
+# Additional stakeholders
+# Plotting other stakeholders based on the context provided
+
+# German Government, a donor with a preference for assessments, indicating transformative but also a bit conservative due to process orientation.
+x_german_gov = -5
+y_german_gov = 5
+ax.plot(x_german_gov, y_german_gov, 'bo', label='German Government')
+
+# Refugees, high transformative preference with local influence.
+x_refugees = -9
+y_refugees = -8
+ax.plot(x_refugees, y_refugees, 'mo', label='Refugees')
+
+# Militia leaders, conservative with negative local influence.
+x_militia_leaders = 5
+y_militia_leaders = -5
+ax.plot(x_militia_leaders, y_militia_leaders, 'yo', label='Militia Leaders')
+
+# Local village mayor, a bit conservative with local influence due to reliance on the camp economy.
+x_mayor = 3
+y_mayor = -3
+ax.plot(x_mayor, y_mayor, 'co', label='Local Village Mayor')
+
+# Health for All, transformative with slight global influence due to health focus.
+x_health_all = -6
+y_health_all = 3
+ax.plot(x_health_all, y_health_all, 'bo', label='Health for All')
+
+# Local church activists, advocating for community and refugees, transformative with local influence.
+x_church_act = -7
+y_church_act = -2
+ax.plot(x_church_act, y_church_act, 'ko', label='Local Church Activists')
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Adding labels to the points
+stakeholders = {
+    'Camp Authorities': (0, 0),
+    'FWB': (x_FWB, y_FWB),
+    'German Government': (x_german_gov, y_german_gov),
+    'Refugees': (x_refugees, y_refugees),
+    'Militia Leaders': (x_militia_leaders, y_militia_leaders),
+    'Local Village Mayor': (x_mayor, y_mayor),
+    'Health for All': (x_health_all, y_health_all),
+    'Local Church Activists': (x_church_act, y_church_act)
+}
+
+for label, (x_pos, y_pos) in stakeholders.items():
+    ax.annotate(label, (x_pos, y_pos), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Show the plot
+plt.show()
+```
+
+This script visualizes the stakeholder map for FWB’s negotiations with camp authorities, including various parties' positions relative to their objectives and influences. Each stakeholder is plotted to reflect their inclined towards transformative or conservative approaches and their local to global influence extent. The Camp Authorities, being the counterparty to FWB, are placed at the origin to signify their central role in the negotiation.

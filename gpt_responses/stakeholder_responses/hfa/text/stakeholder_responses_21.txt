@@ -1,0 +1,67 @@
+Based on the detailed scenario provided, let's create a stakeholder map for the situation involving Health for All (HfA) in Iguwafe, Country Beta. This map will visualize the main entities involved and their positions regarding the key issues: the need for sustained healthcare in Iguwafe following HfA's announced departure, the detainment of HfA staff by local tribesmen, and the subsequent negotiation for their release and the continuation of healthcare services.
+
+**Stakeholders Identified:**
+1. Health for All (HfA) - The protagonist in negotiations.
+2. Tribal Leaders/Local Armed Tribesmen - Counterparty with opposing interests to HfA's initial decision to leave.
+3. HfA International Staff Detained - Directly affected by the conflict, with interest aligned with HfA but also with specific safety concerns.
+4. Local Patients and Patient Association - Highly dependent on the continuation of HfA healthcare services.
+5. Local Hospital Staff - Affected by HfA's potential departure, concerned about employment and the ongoing healthcare service.
+6. Local Guards and Families - Concerned about compensation and the continuation of security roles.
+7. German and Swiss Donors/Governments - Major donors with interests in redirecting resources but also concerned about the safety and well-being of the detained staff.
+8. Government of Beta (including Health Minister and local administration) - Interested in the continuation of HfA services but cautious about intervention.
+9. UN Representatives (including UN Humanitarian Coordinator) - Advisors and mediators concerned about safety and operational continuity.
+10. Food Without Borders (FWB) and Child Protection International (CPI) - Other NGOs with overlapping interests in maintaining stability and services in the region.
+11. International Community (including media) - Observers with potential influence on public opinion and donor actions.
+
+To create a stakeholder map that reflects these complexities, we'll position each stakeholder based on their inclination towards change (HfA's departure) and their local to global influence. The tribal leaders/local armed tribesmen will be at the origin, as they directly oppose the protagonist HfA's initial plans.
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+
+# Initialize the plot
+fig, ax = plt.subplots()
+
+# Set the title and labels
+ax.set_title('Stakeholder Map for HfA Situation in Iguwafe')
+ax.set_xlabel('Inclination Towards Change (HfA Departure)')
+ax.set_ylabel('Influence Spectrum (Local to Global)')
+
+# Plot the counterparty - Tribal Leaders
+ax.plot(0, 0, 'ro', label='Tribal Leaders')  # 'ro' for red dot
+
+# Adjust the axes
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.axhline(0, color='black')  # Add horizontal axis line
+ax.axvline(0, color='black')  # Add vertical axis line
+
+# Plotting stakeholders
+coordinates = {
+    'HfA': (5, 8),
+    'HfA Staff Detained': (4, 3),
+    'Patient Association': (-4, -2),
+    'Local Hospital Staff': (-3, -1),
+    'Local Guards & Families': (-2, -3),
+    'German & Swiss Donors': (7, 5),
+    'Government of Beta': (-1, 7),
+    'UN Representatives': (3, 6),
+    'FWB & CPI': (-3, 4),
+    'International Community': (6, 1)
+}
+
+# Adding labels to the points
+for stakeholder, coord in coordinates.items():
+    ax.plot(*coord, 'bo', label=stakeholder)  # 'bo' for blue dots
+    ax.annotate(stakeholder, coord, textcoords="offset points", xytext=(0,10), ha='center')
+
+# Show the plot
+output_file_path = os.path.join('gpt_responses/plots', f'plot{run_number}.png')
+plt.savefig(output_file_path)
+
+```
+
+This visualization aims to facilitate understanding of the negotiation landscape in Iguwafe, highlighting the principal actors, their positions, and the potential for change. Stakeholders are spread across the map based on their agenda and influence, from local (bottom) to global (top) and from resistant to the departure (left) to those advocating for it or indifferent (right).
+
+Next steps involve refining this visualization based on feedback and exploring strategic negotiation paths, possibly leveraging relational dynamics and common interests among stakeholders.

@@ -36,13 +36,13 @@ def main():
     # Label each bar with its value
     for bar in bars:
         yval = bar.get_height()
-        plt.text(bar.get_x() + bar.get_width()/2, yval + 0.03, f'{yval:.2f}', ha='center', va='bottom', color='black', fontsize=6)
+        plt.text(bar.get_x() + bar.get_width()/2, yval, f'{yval:.2f}', ha='center', va='bottom', color='black', fontsize=6)
     
     plt.axhline(y=average_score, color='red', linestyle='--')
     plt.text(len(similarity_scores), average_score - 0.02, f'Average: {average_score:.2f}', color='red', va='top', ha='right')
     
     # Set y-axis limit
-    plt.ylim(0, 1.0)
+    plt.ylim(0.8, 1.0)
 
     plt.xlabel('GPT Response Number')
     plt.ylabel('Cosine Similarity Score')

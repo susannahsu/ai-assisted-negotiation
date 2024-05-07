@@ -19,7 +19,7 @@ i_upper_ioa_hfa = np.triu_indices_from(ioa_hfa, k=1)
 avg_sim_iceberg_css_fwb = np.mean(iceberg_css_fwb[i_upper_iceberg_css_fwb])
 avg_sim_iceberg_css_hfa = np.mean(iceberg_css_hfa[i_upper_iceberg_css_hfa])
 avg_sim_ioa_fwb = np.mean(ioa_fwb[i_upper_ioa_fwb])
-avg_sim_ioa_hfa = np.mean(ioa_fwb[i_upper_ioa_hfa])
+avg_sim_ioa_hfa = np.mean(ioa_hfa[i_upper_ioa_hfa])
 
 print("Iceberg CSS FwB - Average cosine similarity (excluding self-similarity):", avg_sim_iceberg_css_fwb)
 print("Iceberg CSS HfA - Average cosine similarity (excluding self-similarity):", avg_sim_iceberg_css_hfa)

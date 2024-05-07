@@ -1,0 +1,4 @@
+Iceberg CSS FwB - Average cosine similarity (excluding self-similarity): 0.9820932
+Iceberg CSS HfA - Average cosine similarity (excluding self-similarity): 0.97646236
+IoA FwB - Average cosine similarity (excluding self-similarity): 0.9763301
+IoA HfA - Average cosine similarity (excluding self-similarity): 0.9763301

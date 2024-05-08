@@ -1,3 +1,7 @@
+Iceberg_css_fwb - Upper Triangle Min: 0.9627295732498169, Max: 0.9906778335571289, Median: 0.9828794002532959
+Iceberg_css_hfa - Upper Triangle Min: 0.9609014987945557, Max: 0.9891577959060669, Median: 0.9767491817474365
+ioa_fwb - Upper Triangle Min: 0.9474379420280457, Max: 0.9918882250785828, Median: 0.9788282513618469
+ioa_hfa - Upper Triangle Min: 0.9564442038536072, Max: 0.9894521236419678, Median: 0.9795264005661011
 Iceberg CSS FwB - Average cosine similarity (excluding self-similarity): 0.9820932
 Iceberg CSS HfA - Average cosine similarity (excluding self-similarity): 0.97646236
 IoA FwB - Average cosine similarity (excluding self-similarity): 0.9763301
